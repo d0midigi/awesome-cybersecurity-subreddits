@@ -104,7 +104,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
   Historic note: previous version checked the homepage content was not empty.
 -->
 
-<details id=3 open>
+<details id=3>
 <summary><h2>Step 3: Customize your homepage</h2></summary>
 
 _Nice work setting the theme! :sparkles:_
@@ -129,7 +129,7 @@ You can customize your homepage by adding content to either an `index.md` file o
   Historic note: previous version checked the file path. Previous version checked the front matter formatting.
 -->
 
-<details id=4>
+<details id=4 open>
 <summary><h2>Step 4: Create a blog post</h2></summary>
 
 _Your home page is looking great! :cowboy_hat_face:_
