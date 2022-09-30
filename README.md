@@ -7,7 +7,7 @@
 
 # Awesome Cybersecurity Subreddits
 
-_Awesome subreddits that wield great breadth of information, documentation, advice, solutions, eye-openers, for some, security, cybersecurity, personal computing, hardware, and appliance manufacturers, to all things threat, risk, vulnerability and network security related. Informational overload._
+_Awesome subreddits that wield great breadth of information, documentation, advice, solutions, eye-openers, for some, security, cybersecurity, personal computing, hardware, and appliance manufacturers, to all things threat, risk, vulnerability and network security related. Informational overload. • This curated list is non-exclusive, and listed in no particular order.•_
 
 # Awesome Subreddits
 • [r/AccessCyber](https://www.reddit.com/r/AccessCyber) - This relatively new subreddit offers cybersecurity career, training and education resources for "Digital Defenders." Largely a curated list of links, AccessCyber is a useful source of info for anyone looking to improve or develop their skills, from beginners to those branching out into any of infosec's many specialty areas.
@@ -204,8 +204,37 @@ _Awesome subreddits that wield great breadth of information, documentation, advi
 
 [r/Splunk](https://www.reddit.com/r/Splunk/) - Welcome to the Splunk subreddit. Do you love big data and cannot lie? Need to take the SH out of IT? Need a ninja but they are too busy? If so, then you're in the right place! This is a place to discuss Splunk, the big data analytics software as it indexes and correlates information in a container that makes it searchable, and makes it possible to generate alerts, reports, and visualizations. Ask questions, share, tips, build apps!
 
-
 [r/suricata](https://www.reddit.com/t/suricata/) - Observe. Protect. Adapt. This is the Suricata subreddit. Suricata is a high performance, open-source network analysis and threat detection software used by most private and public organizations - it's even available for personal home use, now. Suricata's open-source detection engine enables the capability for it to act as an IDS/IPS. It was developed by the Open Information Security Foundation and its first beta release was 2009-12.
+
+[r/OPNsenseFirewall](https://www.reddit.com/r/OPNsenseFirewall/) - The pfSense project is a powerful open-source firewall and routing platform based on FreeBSD. Developed and maintained by Netgate.
+
+[r/nmap](https://www.reddit.com/r/nmap/) - Nmap is a network security scanner and is used to discover hosts and services on a computer network by sending packets and analyzing the response. Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection.
+
+[r/Python](https://www.reddit.com/r/Python/) - News about the programming language, Python. If you have something to teach others, post here. If you have questions, or are a newbie, use [r/learnpython](https://www.reddit.com/r/learnpython/).
+
+[r/learnpython](https://www.reddit.com/r/learnpython/) - Subreddit for posting questions and asking for general advice about Python coding.
+
+[r/pythonhelp](https://www.reddit.com/r/pythonhelp/) - A subreddit for posts that include helping from the most beginner of Python to the most advanced users of Python.
+
+[r/beginnersprojects](https://www.reddit.com/r/beginnerprojects/) - Have you just started Python and are looking for some simple projects to tackle and baseline your skill set? Check out this subreddit to find some beginner to intermediate Python projects.
+
+[r/pcicompliance](https://www.reddit.com/r/pcicompliance/) - A subreddit for PCI-DSS Violations, Assessments and Reporting.
+
+[r/pci](https://www.reddit.com/r/pci/) - All things Payment Card Industry Security and Compliance: Have answers or questions regarding PCI compliance? Come to where QSAs lurk and discuss PCI and how to make sure your, your vendors and all personally identifiable card holder/payment card data is secure!
+
+[r/hackthebox](https://www.reddit.com/r/hackthebox/) - Open discussions about the hackthebox.com machines.
+
+[r/metasploit](https://www.reddit.com/r/metasploit/) - This is the Metasploit subreddit where discussions about how to use the tool daily take place. There is an overwhelming amount of Metasploit resources in this subreddit from how-to guides, to cheat sheets, to best practices, to how to install the tool on different OS platforms - you name it, this subreddit is a haven for all things Metasploit.
+
+
+
+
+
+
+
+
+
+
 
 
 
