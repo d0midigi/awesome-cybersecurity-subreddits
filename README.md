@@ -48,7 +48,7 @@ endstep0-->
   Encourage users to open new tabs for steps!
 -->
 
-<details id=1 open>
+<details id=1>
 <summary><h2>Step 1: Enable GitHub Pages</h2></summary>
 
 _Welcome to GitHub Pages and Jekyll :tada:!_
@@ -72,7 +72,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
   Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
 -->
 
-<details id=2>
+<details id=2 open>
 <summary><h2>Step 2: Configure your site</h2></summary>
 
 _You turned on GitHub Pages! :tada:_
