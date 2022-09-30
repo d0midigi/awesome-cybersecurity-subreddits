@@ -76,3 +76,87 @@ _Awesome subreddits that wield great breadth of information, documentation, advi
  
  [r/MacOS](https://www.reddit.com/r/MacOS/) - Security on macOS is of increasing important particularly in the Enterprise. Although the r/MacOS isn't a dedicated macOS cybersecurity subreddit, with 186,000 members, it is one of a number of places where new security issues can get an early mention and is worth keeping an eye on if you're trying to stay ahead of new and developing threats for Apple's desktop platform.
 
+[r/macsysadmin](https://www.reddit.com/r/macsysadmin) - This subreddit is definitely one for all you Mac admins out there. In this subreddit you'll find lots of useful posts related to Mac administrtion, scripting, configuration profiles, remote management, firewalls, networking, MFA, and other topics that impact macOS security.
+
+[r/malware](https://www.reddit.com/r/Malware/) - The r/malware subreddit is a community for malware reports and information and enjoys a healthy 53,000+ members. Here you'll find a wealth of information on the latest threats, and the forum is also a great place to ask your questions and find things like phishing analysis tools or just discover general malware resources altogether!
+
+[r/msp](https://www.reddit.com/r/msp) - If you're using or thinking about using a Managed Service Provider [MSP] in your organization, then r/msp is the subreddit for you. This community is heavily Q&A based with a lot of traffic from people seeking solutions to a wide variety of issues. With 113,000 members, there's also lots of answers and this is definitely a friendly community where you can get help to questions fast.
+
+[r/netsec](https://www.reddit.com/r/netsec/) - The r/netsec subreddit is a community for technical news and discussion of information security and closely related topics. This is is heavy on links to community-related tools available from GitHub and similar repositories for all manner of useful scripts and programs to solve common and not-so common security problems.
+
+[r/netsecstudents](https://www.reddit.com/r/netsecstudents/) - The r/netsecstudents is for students or anyone, really, studying network security. This is the place to ask questions regarding your netsec homework, or perhaps you need resources for certain subjects. Either way, you'll find them here. Users are welcome to contribute their own information, or resources, as well.
+
+[r/NetworkSecurity](https://www.reddit.com/r/NetworkSecurity/) - This small community of around 6,000 members doesn't seem to have a lot of traffic at the moment, but it has been around since 2011, so there's a wealth of useful archived material on enterprise and business network security topics, data centers, VPNs, and related netsec topics.
+
+[r/opendirectories](https://www.reddit.com/r/opendirectories) - The r/opendirectories is a subreddit for data hunters. Whether you're looking for manuals on old computers or lab equipment, or desperate to find some obscure e-book, then this subreddit is where you need to go. Listings of unprotected directories of images, videos, music, software, and otherwise interesting files, this is a good place to start.
+
+[r/osx](https://www.reddit.com/r/osx/) - Another general macOS-related subreddit, this community has been around since 2008 (that's OSX 10.5 Leopard era) and is another great place to keep up with what's happening in the Mac world, or to as questions. While there's definitely an emphasis on people running pre-macOS versions of Apple's Desktop system, there's still plenty of help requested and given for the newer versions and the newer M1 hardware.
+
+[r/privacy](https://www.reddit.com/r/privacy/) - Cruising in at over 1.2 million members, there's no mistaking that the r/privacy community is popular and an important place to swap news and join discussions around the intersections of technology, privacy, and freedom in the digital world.
+
+[r/pwned](https://www.reddit.com/r/pwned/) - The r/pwned subreddit discusses news of recent breaches, leaked, or stolen data, and other examples of pwnage affecting the confidentiality and integrity of data. You can filter by industry such as Finance, Technology, Healthcare, and Government.
+
+[r/redteamsec](https://www.reddit.com/r/redteamsec) - This subreddit is dedicated to not only Red Teams, but also Blue Teams and contains content including malware, tradecraft, and reverse engineering. Aside from links to breaking stories and helpful articles, there's also plenty of links to shared tools (both Teams can beenfit from using), techniques, and GitHub projects aimed at Red and Blue Teams.
+
+[r/regames](https://www.reddit.com/r/regames) - If you are interested in reverse engineering, then r/regames could be the ideal place for you. This is a subreddit for those who enjoy reverse engineering games, or for those who want to test and try out their skills! The reverse engineering games content in cludes figuring out how it works, defeating cheat detection mechanisms, and all of the other fun things that advanced problem-solving gives.
+
+[r/ReverseEngineering](https://www.reddit.com/r/reverseengineering) - With 110,000 members and a history that stretches back to 2008, the r/ReverseEngineering subreddit is the grandaddy of all things RE (Reverse Engineering) on Reddit. This amazing subreddit has a "Re Weekly Questions Thread," a "Triannual Hiring Thread," and offers a moderated community dedicated to all things reverse engineering. An absolute must for all who like taking software (and other things) apart.
+
+[r/SecurityCareerAdvice](https://www.reddit.com/r/SecurityCareerAdvice) - This subreddit bills itself as "like CSCareerQuestions, only cooler." It's 9,000 members offer a place to connect those seeking to learn with those who have walked the path before. Ask questions about cybersecurity careers here, and mentors can choose to answer if they have time, which they normally do. It remains a very active and sociable subreddit.
+
+[r/securityCTF](https://www.reddit.com/r/securityCTF) - Capture the Flag [CTF] completitions are a hallmark of the uber-hacker and there's no better subreddit to hang out for the CTF folks than at r/securityCTF. Here you'll find news and links to wargames, CTF tournaments, tutorials, and walkthroughs for challenges on [HackTheBox](https://www.hackthebox.com/) and other platforms.
+
+[r/TOR](https://www.reddit.com/r/TOR/) - The TOR subreddit boasts almost 180,000 users dedicated to news and discussion around the TOR anonymity software. This forum covers everything from setting up your initial TOR instance to concerns about the most anonymous and secure ways to setup and use The Onion Router software.
+
+[r/websecurity](https://www.reddit.com/r/websecurity) - As applications and services move to the web, avoiding web vulnerabilities such as XSS and CSFR becomes critical, and that's where the r/websecurity subreddit comes in. Here you';; find links and discussions on the development and maitnenace of secure websites, for website owners, developers, and pentesters.
+
+[r/antivirus](https://www.reddit.com/r/antivirus/) - Antivirus software options are discussed here, as well as tips and requests for hrlp on getting rid of viruses. This subreddit has been around for 10+ years and has almost 100,000 subscribers.
+
+[r/hackernews](https://www.reddit.com/r/hackernews/) - A collection of "hacker news" best submissions; this subreddit has a very active posting community and has been around for 12 years garnering 47,000 subscribers.
+
+[r/techsnap](https://www.reddit.com/r/techsnap/) - Systems, Network, and an Administrator podcast every one week. r/techsnap covers the stories that impact those in the tech industry, and those that follow it. Every episode dedicates a portion of the show to answer participating audience questions, discuss best practices, and solve user problems.
+
+[r/lockpicking](https://www.reddit.com/r/lockpicking/) - This subreddit is dedicated to the sport of lockpicking.
+
+[r/sysadmin](https://www.reddit.com/r/sysadmin) - This subreddit is dedicated to the profession of Computer System Administration with a whopping 735,000 members.
+
+[r/aws](https://www.reddit.com/r/aws/) - News, articles, and tools covering Amazon Web Services [AWS], including S3, EC2, SQS, RDS, DynamoDB, IAM, CloudFormation, Route 53, CloudFront, Lambda, VPC, Cloudwatch, Glacier, and more.
+
+[r/Cisco](https://www.reddit.com/r/Cisco/) - This subreddit is a dedicated Cisco Community Support Network.
+
+[r/commandline](https://www.reddit.com/r/commandline/) - This subreddit is for anything and everything regarding the command line, in any operating system. All questions, tips, and links to interesting programs/console appilcations members have found or made themselves are welcome to be posted to the community. Linux/BSD/OSX, Windows CLI and TUI apps or questions - the subreddit moderators are happy to take them all!
+
+[r/devops](https://www.reddit.com/r/devops/) - Welcome to everything DevOps.
+
+[r/docker](https://www.reddit.com/r/docker/) and [r/Dockerfiles](https://www.reddit.com/r/Dockerfiles/) - This subreddit is dedicated to Docker, which is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds, and more.
+
+[r/ipv6](https://www.reddit.com/r/ipv6/) - This subreddit is dedicated to the discussion of everything IPv6.
+
+[r/Juniper](https://www.reddit.com/r/Juniper/) - The Juniper subreddit is dedicated to discussing routers, switches, and security appliances manufactured by Juniper Networks.
+
+[r/nessus](https://www.reddit.com/r/nessus/) - This subreddit houses a vast amount of information for Tenable Nessus vulnerability scanner. This community is here to discuss Tenable Nessus scanners, and related topics.
+
+[r/servicenow](https://www.reddit.com/r/servicenow/) - This subreddit is dedicated to the ServiceNow business model based on providing products using SaaS computing software. The community is very helpful in providing tips and advice on how to setup systems to define, manage, automate, and structure services for companies.
+
+[r/NISTControls](https://www.reddit.com/r/NISTControls/) - This is a subreddit community for navigating the complicated world of NIST Publications and their Control Families. This community provides active discussions, resource sharing, news, recommendations for solutions specifically for the NIST SP 800-53 and NIST SP 800-171 publications. The community collaborates on implementing and maintaining the NIST Family Series of Controls.
+
+[r/linuxadmin](https://www.reddit.com/r/linuxadmin/) - This subreddit is all about expanding Linux SysAdmin Knowledge.
+
+[r/openstack](https://www.reddit.com/r/openstack/) - OpenStack is an open-source platform that uses pooled virtual resources to build and manage private and public clouds. This subreddit is all about OpenStack and discussions vary greatly from the tools that comprise the OpenStack platform (also called "projects") to how to handle the core cloud-computing services of computers, networking storage, identity, and image services, plus more.
+
+[r/selinux](https://www.reddit.com/r/selinux/) - This subreddit is here to help with and have discussons about SELinux, the Mandatory Access Control [MAC] security system which is part of most Linux distributions including RHEL, CentOS, Debian, Gentoo, Android, and more!
+
+[r/exchangeserver](https://www.reddit.com/r/exchangeserver/) - Microsoft Exchange Server subreddit. Post blog articles you like, KBs you wrote or ask questions. This subreddit is an open forum for Exchange Administrators, Engineers, Architects, and everyone "to get along," and ask questions.
+
+[r/homelab](https://www.reddit.com/r/homelab/) - Welcome to the friendly r/homelab subreddit where techies and sysadmin from everywhere are welcome to shair their home labs, projects, builds, etc.
+
+[r/talesfromtechsupport](https://www.reddit.com/r/talesfromtechsupport/) - This subreddit hosts "Tales from Tech Support," where they post stories about helping someone with a tech issue. "Did you tru turning it off and on again?"
+
+[r/iiiiiiitttttttttttt](https://www.reddit.com/r/iiiiiiitttttttttttt/) - The Information Technology Rage subreddit where they join you to come on in and bask in the warm glow of IT-related rage of all kinds!
+
+[r/windows](https://www.reddit.com/r/windows/) - r/windows is one of Reddit's largest communities for Microsoft Windows, the world's most popular computer operating system. This subreddit is not a tech support subreddit, so moderators advise users of if that's what you're looking for, head on over to [r/techsupport](https://www.reddit.com/r/techsupport).
+
+[r/techsupport](https://www.reddit.com/r/techsupport) - Stumped on a tech problem? Ask the techs here at r/techsupport and try to help others with their problems as well!
+
+[r/PowerShell](https://www.reddit.com/r/PowerShell/)
+
