@@ -158,5 +158,55 @@ _Awesome subreddits that wield great breadth of information, documentation, advi
 
 [r/techsupport](https://www.reddit.com/r/techsupport) - Stumped on a tech problem? Ask the techs here at r/techsupport and try to help others with their problems as well!
 
-[r/PowerShell](https://www.reddit.com/r/PowerShell/)
+[r/PowerShell](https://www.reddit.com/r/PowerShell/) - This subreddit is dedicated to PowerShell - a cross-platform (Windows, Linux, and macOS) automation tool and configuration framework optimized for dealing with structured data (e.g., JSON, CSV, XML), REST APIs, and object models. PowerShell includes a command-line shell, object-oriented scripting language, and a set of tools for executing scripts/cmdlets and managing modules.
+
+[r/networking](https://www.reddit.com/r/networking/) - This subreddit provides enterprise networking design, support, and discussion. Enterprise Networking - Routers, switches, wireless, and firewalls, Cisco, Juniper, Arista, Fortinet, and more are welcome.
+
+[r/ccna](https://www.reddit.com/r/ccna/) - This subreddit is fully dedicated to nothing but the Cisco Certified Network Associate examination/certification from Cisco Networks.
+
+[r/projectmanagement](https://www.reddit.com/r/projectmanagement/) - Make sure your posts have the appropriate topical flare. This is a safe and open subreddit environment dedicated to the promotion of project management methodlolgies, with the purpose of fostering and promoting free discussion about all things project management awesome.
+
+[r/microsoft](https://www.reddit.com/r/microsoft/) - Welcome to the Microsoft subreddit. Content here should be primarily about Microsoft's suite of services, products, and games, which are published. If you require support, please post your question within the pinned thread where the Social Media team will respond back to you.
+
+[r/itdrc](https://www.reddit.com/r/itdrc/) - The Information Technology Disaster Resource Center [ITDRC] was founded in 2008 to provide communities with the technical resources necessary to continue operations and begin recovery after a significant disaster. ITDRC harnesses the collective resources of the technology community to provide no cost Information, Communications, and Technology [ICT] solutions that connect survivors and responders in crisis.
+
+[r/technology](https://www.reddit.com/r/technology/) - Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
+
+[r/TechnologyProTips](https://www.reddit.com/r/TechnologyProTips/) - This subreddit delivers tips that can improve your tech knowledge one way or another. The only thing the subreddit's moderators ask for is for you to leave your favorite tip(s) you've picked up throughout your technological life.
+
+[r/hardware](https://www.reddit.com/r/hardware/) - A technical hardware-related subreddit for computer hardware, news, reviews, and intelligent discussions. Over 3 million members.
+
+[r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) - The leading subreddit community for cryptocurrency, news, discussions, and analysis.
+
+[r/Bitcoin](https://www.reddit.com/r/Bitcoin/) - Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized form of digital money. Unlike traditional currencies such as dollars, Bitcoins are issued and managed without any central authority, whatsoever. There is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With Bitcoin, you can be your own bank.
+
+[r/Netwrix](https://www.reddit.com/r/Netwrix) - Netwrix is a software company that enables information security and governance professionals to reclaim control over sensitive, regulated and business-critical data, regardless of where it resides. Over 10,000 organizations worldwide rely on Netwrix solutions to secure sensitive data, realize the full business value of enterprise content, pass compliance audits with less effort and expense, and increase the productivity of IT teams and knowledge workers.
+
+[r/debian](https://www.reddit.com/r/debian/) - Subreddit to discuss all the Debian things - the Universal Operating System.
+
+[r/vmware](https://www.reddit.com/r/vmware/) - This community caters to VMware professionals using VMware products in enterprise computing environments. Posts regarding hobbyist and personal use are welcome, but are held to a high standard of quality. Always read the rules before posting, and, per the moderators, "PLEASE state the product name and version when posting. VMware is a company, not a product!"
+
+[r/HyperV](https://www.reddit.com/r/HyperV/) - Welcome to HyperV. VMware's second cousin.
+
+[r/virtualization](https://www.reddit.com/r/virtualization/) - A subreddit about Virtualization as it is transforming computing from the datacenter to the desktop. News, comparisons, bugs, assistance, migration, anything: the team at r/virtualization are there to talk about it. P2V the world!
+
+[r/storage](https://www.reddit.com/r/storage/) - A subreddit for enterprise-level IT data storage-related questions, anecdotes, troubleshooting, requests/tips, and other related discussions.
+
+[r/management](https://www.reddit.com/r/management/) - This subreddit is focused on modern topics such as lean thinking, Deming, innovation, customer focus, six sigma, continual improvement, agile software development and related topics focused on viewing the organization as a system, evidence-based management and respect for people.
+
+[r/usefulscripts](https://www.reddit.com/r/usefulscripts/) - Bash, Python, PowerShell, Perl, etc.
+
+[r/M365Reports](https://www.reddit.com/r/M365Reports/) - All about Microsoft Office 365 (or, "O365.").
+
+[r/ccent](https://www.reddit.com/r/ccent/) - The Cisco Certified Entry Networking Technican [CCENT] subreddit for entry-level professionals, or freshers who are looking to start out with their first networking certification. CompTIA Nework+ is also a good choice for an entry-level certification.
+
+[r/paloaltonetworks](https://www.reddit.com/r/paloaltonetworks/) - This subreddit is for those that administer, support, or want to learn more about Palo Alto Networks' firewalls.
+
+[r/Splunk](https://www.reddit.com/r/Splunk/) - Welcome to the Splunk subreddit. Do you love big data and cannot lie? Need to take the SH out of IT? Need a ninja but they are too busy? If so, then you're in the right place! This is a place to discuss Splunk, the big data analytics software as it indexes and correlates information in a container that makes it searchable, and makes it possible to generate alerts, reports, and visualizations. Ask questions, share, tips, build apps!
+
+
+[r/suricata](https://www.reddit.com/t/suricata/) - Observe. Protect. Adapt. This is the Suricata subreddit. Suricata is a high performance, open-source network analysis and threat detection software used by most private and public organizations - it's even available for personal home use, now. Suricata's open-source detection engine enables the capability for it to act as an IDS/IPS. It was developed by the Open Information Security Foundation and its first beta release was 2009-12.
+
+
+
 
