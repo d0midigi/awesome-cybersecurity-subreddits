@@ -7,7 +7,10 @@
 
 # Awesome Cybersecurity Subreddits
 
-_A curated blog of some of the best subreddits containing OS, cybersecurity and IT-related resources._
+_Awesome subreddits that wield great breadth of information, documentation, advice, solutions, eye-openers, for some, security, cybersecurity, personal computing, hardware, and appliance manufacturers, to all things threat, risk, vulnerability and network security related. Informational overload._
+
+# Subreddits
+• [r/AccessCyber](https://www.reddit.com/r/AccessCyber) - This relatively new subreddit offers cybersecurity career, training and education resources for "Digital Defenders." Largely a curated list of links, AccessCyber is a useful source of info for anyone looking to improve or develop their skills, from beginners to those branching out into any of infosec's many specialty areas.
 
 
-# Table of Contents
+
