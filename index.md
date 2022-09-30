@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Welcome to d0midigi's Everything Cybersecurity blog
 ---
 
