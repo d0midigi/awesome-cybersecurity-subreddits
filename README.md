@@ -1,272 +1,373 @@
-# Awesome Cybersecurity Reddit Communities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 🚀 100 Days 100 Web Projects
 
-<p align="center">
-  <img src="https://github.com/d0midigi/awesome-cybersecurity-subreddits/blob/main/reddit-glitch.png?raw=true" alt="Awesome Cybersecurity Reddit Communities">
-</p>
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-A curated list of cybersecurity-related Reddit communities. subreddits, resources, and links.
+<div align="center">
 
-## Contents
+![100 Days 100 Projects Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&weight=900&pause=1000&color=0FF26C&center=true&width=800&lines=100+Days+100+Web+Projects;Learn+%26+Build+Amazing+Projects;HTML+%7C+CSS+%7C+JavaScript+%7C+React+%7C+Node.js)
 
-<!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
+[![Website](https://img.shields.io/website?url=https%3A%2F%2F100-days-100-web-project.vercel.app/%2F&style=for-the-badge)](https://100-days-100-web-project.vercel.app/)
+[![Contributors](https://img.shields.io/github/contributors/dhairyagothi/100_days_100_web_project?style=for-the-badge)](https://github.com/dhairyagothi/100_days_100_web_project/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/dhairyagothi/100_days_100_web_project?style=for-the-badge)](https://github.com/dhairyagothi/100_days_100_web_project/network/members)
+[![Stars](https://img.shields.io/github/stars/dhairyagothi/100_days_100_web_project?style=for-the-badge)](https://github.com/dhairyagothi/100_days_100_web_project/stargazers)
+[![Issues](https://img.shields.io/github/issues/dhairyagothi/100_days_100_web_project?style=for-the-badge)](https://github.com/dhairyagothi/100_days_100_web_project/issues)
+[![License](https://img.shields.io/github/license/dhairyagothi/100_days_100_web_project?style=for-the-badge)](LICENSE)
 
-- [r/Hacking](#r-hacking)
-  - [Algorithms](#algorithms)
-    - [Symmetric encryption](#symmetric-encryption)
-    - [Asymmetric encryption](#asymmetric-encryption)
-    - [Hash functions](#hash-functions)
-  - [Articles](#articles)
-  - [Books](#books)
-  - [Courses](#courses)
-  - [Other lists](#other-lists)
-- [Tools](#tools)
-  - [Standalone](#standalone)
-  - [Plugins](#plugins)
-    - [Git](#git)
-  - [Playgrounds](#playgrounds)
-- [Frameworks and Libs](#frameworks-and-libs)
-  - [C](#c)
-  - [C#](#c-sharp)
-  - [C++](#c-1)
-  - [Clojure](#clojure)
-  - [Common Lisp](#common-lisp)
-  - [Delphi](#delphi)
-  - [Elixir](#elixir)
-  - [Erlang](#erlang)
-  - [Golang](#go)
-  - [Haskell](#haskell)
-  - [Haxe](#haxe)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Julia](#julia)
-  - [Lua](#lua)
-  - [OCaml](#ocaml)
-  - [Objective-C](#objective-c)
-  - [PHP](#php)
-  - [Python](#python)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Scala](#scala)
-  - [Scheme](#scheme)
-  - [Swift](#swift)
-- [Resources](#resources)
-  - [Blogs](#blogs)
-  - [Mailing lists](#mailing-lists)
-  - [Web-tools](#web-tools)
-  - [Web-sites](#web-sites)
-- [Contributing](#contributing)
-- [License](#license)
+</div>
 
-<!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
+## 🌟 About This Project
 
-- - -
+Welcome to **100 Days 100 Web Projects**! This is a comprehensive collection of **112+ web development projects** ranging from beginner to intermediate level. Our goal is to help developers learn and practice web development through hands-on projects using various technologies.
 
-## r/Hacking
+### 🎯 What You'll Find Here:
+- **Frontend Projects**: HTML, CSS, JavaScript, React, Vue.js
+- **Backend Projects**: Node.js, Express.js, Flask, MERN Stack
+- **Full-Stack Applications**: Complete web applications with frontend and backend
+- **Interactive Games**: Browser-based games and entertainment apps
+- **Utility Tools**: Practical web tools and calculators
+- **UI Components**: Reusable components and design patterns
 
-- [/hacking](https://www.reddit.com/r/hacking) - A subreddit dedicated tohacking and hackers. Constructive collaboration and learning bout exploits, industry standards, grey and white hat hacking, new hardware and software hacking technologies, sharing ideas and suggestions for small businesses and personal security.
-- [r/Hacking_Tutorials](https://www.reddit.com/r/Hacking_Tutorials) - Hacking Tutorials is a sub where you can post various resources that discuss and teach the art of hacking and pentesting while staying ethical and legal. This community does not provide, promote, or support any kind of malicious hacking services.
-- [r/HowToHack](https://www.reddit.com/r/HowToHack) - This is your open hacker community designed to help you on your journey from neophyte to veteran in the world of underground skillsets. Ask, Answer, Learn.
-- [r/masterhacker](https://www.reddit.com/r/masterhacker) - This subreddit is where you put those kids that can DDoS you because you logged int the haked code on JavaScript YouTube C++ servers.
-- [r/hackers](https://www.reddit.com/r/hackers) - This subreddit is dedicated to the most interesting recent and historical hacks. Their topics do not need to be technical. Thy require detailed information in all posts. They also do not provide or promote black hat or malicious hacking of any kind.
-- [r/hackaday](https://www.reddit.com/hackaday) - Hackaday serves up fresh hacks every day from around the internet. Read the latest articles from hackaay.com and all things of interest tohardware hackers, designers, and engineers.
-- [r/hardwarehacking](https://www.reddit.com/r/hardwarehacking) - The intersection of DIY, electrical engineering, repurposing, and security. Posts or discussions about improving, repurposing, hacking, or creating new devices out of old things are welcome.
-- [r/hackernews](https://www.reddit.com/r/hackernews) -  A subreddit community that is a mirror of the front page of Hacker News.
-- [r/Hacking_Tricks](https://www.reddit.com/r/Haking_Tricks) - Hacking tricks is a community for the latest hacking tips and tricks as well as the latest technology news and gadget information. Modded apps and premium accounts are also shared there.
-- [r/HackersCommunity](https://www.reddit.com/r/HackersCommunity) -
-- [r/HackingPeople](https://www.reddit.com/r/HackingPeople) - This subreddit is about hacking people through the use of concepts, machines, or social strategies.
-- [r/ActualHacking](https://www.reddit.com/r/ActualHacking) - This is a subreddit where people that actually know how to hack can post. This includes SQLi, rooting, and any sort of hacking you can possibly think of, post it there.
-- [r/GuidedHacking](https://www.reddit.com/r/GuidedHacking) - This community hosts security-related topics such as reverse engineering, game hacking, exploit development, and malware analysis.
-- [r/Real_Hacking](https://www.reddit.com/r/Real_Hacking) - This subreddit community provides news on relevant hacking technologies, general hacking topics are debated and discussed here.
-- [r/hackerrankonreddit](https://www.reddit.com/r/hackerrankonreddit) - This is the official subreddit of HackerRank. Dedicated to tech and all things tech.
-- [r/HackigCommunity](https://www.reddit.com/r/HackingCommunity) - This subreddit promotes safe hacking.
-- [r/ethicalhacking](https://www.reddit.com/r/ethicalhacking) - A forum for discussing penetration testing, otherwise known as ethical hacking.
-- [r/hacks](https://www.reddit.com/r/hacks) - r/hacks is the place to share, discuss, and document cool and creative hacks.
-- [r/hackathon](https://www.reddit.com/r/hackathon) - Discuss anything and everything related to hackathons. Hackathons are social coding events that bring people together to develop new projects in a short amount of time.
-- [r/HackingSimplified](https://www.reddit.com/r/HackingSimplified) - Hacking Simplified is a subreddit community where Redditors can post various resources that discuss and teach the art of hacking and pentesting while staying ethical and legal.
-- [r/cybersecurity](https://www.reddit.com/r/cybersecurity) - This subreddit is for discussing cybersecurity topics, research, and emerging threats and findings.
-- [r/HackingEDC](https://www.reddit.com/r/HakingEDC) - "The tools you use to hack."
-- [r/hacken](https://www.reddit.com/r/hacken) - r/hacken is a place for Web3 developers and ethical hackers to exchange ideas on blockchain security. They have active discussions on crypto hacks and scams, expose bad actors, and break down regulations. Join to stay ahead in Web3 security, write secure smart contratcs, and develop your winning bug bounty strategy.
-- [r/Hacking_Cracking](https://www.reddit.com/r/Hacking_Cracking) - In this subreddit community you will get updates to hacking video tutorials, and hacking tips and tricks.
-- [r/LinuxHacking](https://www.reddit.com/r/LinuxHacking) -
-- [r/gamehacks](https://www.reddit.com/r/gamehacks) - This subreddit is dedicated to everything related to game hacking, modding, and other things. For all games like Fortnite, Call of Duty, Escape From Tarkov, Grand Theft Auto, and others.
-- [r/Python_AND_Hacking](https://www.reddit.com/r/Python_AND_Hacking) - This is the official Python & Hacking subreddit for all of your Python, coding, and hacking information - learn, comment, share, enjoy, and subscribe today.
-- [r/hacksguider](https://www.reddit.com/r/hacksguider) - This is a community for enthusiasts and people who are dedicated to privacy. They believe privacy is everyone's right. Join and start learning how you can better protect your digital life and online footprint.
-- [r/bitcoinhackers](https://www.reddit.com/r/bitcoinhackers) - This subreddit is for hacking up Bitcoin's internals, creating applications using the raw protocol, and more!
-- [r/HackingMusic](https://www.reddit.com/r/HackingMusic) - This subreddit is dedicated to hosting music for hacking, waves fo coding, mana for debugging, or creating new bugs. Playlists for developers and hackers to boost the logic part of the brain to output good software.
-- [r/Termux_Hacking])https://www.reddit.com/r/Termux_Hacking) - This is the subredit where you can start hacking just by uing your smartphone. Beginner to advanced level hacking using your phone. In this community, you can learn, disciss, and try new things. Live chats are always available for you.
-- [r/NetworkHacking](https://www.reddit.com/r/NetworHacking) - Here you can post your general questions, give or receive advice that involve network hacking and more. For educational purposes only.
-- [r/lowlevel](https://www.reddit.com/r/lowlevel) - Low-level programming and hacking subreddit for the Linux and Windows operating systems.
-- [r/DashHacking](https://www.reddit.com/r/DashHacking) - This is a subreddit for all Amazon Dash Hackers.
-- [r/HackingTipsforAll](https://www.reddit.com/r/HackingTipsforAll) - This subreddit shars useful tips and tricks for everyday hacking!
-- [r/WhiteHatHacking](https://www.reddit.com/r/WhiteHatHacking) - This subreddit is a community of  Whitehat Hackers and hacking that are ready to guide you on your path from a beginner to a professional in the field. Check out their website and on discord inside the subreddit.
--  [r/Latest_Hacking_News](https://www.reddit.com/r/Latest_Hacking_News) - They are made up of a collaboration of IT security experts with over 30 years combined technical knowledge in this field. Their main aim is to collaborate with other experts as well as help others who have a genuine interest in the IT security field.
+### 🔥 Featured Technologies:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
--  # Information Security & Assurance Communities
+## 🚀 Live Demo
 
-## **General Security**
--  [r/netsec](https://reddit.com/r/netsec) - Professional network security discussions, research, and news. High-quality technical content only.
--  [r/cybersecurity](https://reddit.com/r/cybersecurity) - Broad cybersecurity topics, career advice, and industry news for professionals and students.
--  [r/SecurityCareerAdvice]( https://reddit.com/r/SecurityCareerAdvice) - Career guidance, certification help, and job market discussions for security professionals.
--  [r/cyber](https://reddit.com/r/cyber) - General cyber security news, breaches, and discussions for all skill levels.
--  [r/InfoSecNews](https://reddit.com/r/InfoSecNews) - Curated information security news and breach notifications.
+**🌐 Visit the Live Website:** [100-days-100-web-project.vercel.app](https://100-days-100-web-project.vercel.app/)
 
-## **Ethical Hacking & Penetration Testing**
--  [r/HowToHack](https://reddit.com/r/HowToHack) - Educational hacking tutorials and CTF walkthroughs for beginners to advanced.
--  [r/ethicalhacking](https://reddit.com/r/ethicalhacking) - White-hat hacking techniques, bug bounty tips, and responsible disclosure discussions.
--  [r/Pentesting](https://reddit.com/r/Pentesting) - Professional penetration testing methodologies, tools, and report sharing.
--  [r/bugbounty](https://reddit.com/r/bugbounty) - Bug bounty programs, vulnerability reports, and earnings discussions.
-  -[r/CTF](https://reddit.com/r/CTF) - Capture The Flag competitions, write-ups, and team recruitment.
+The website features:
+- Interactive project showcase
+- Search functionality to find specific projects
+- Direct links to all project demos
+- Beautiful dark/light theme toggle
+- Responsive design for all devices
 
-## **Certifications & Education**
--  [r/CompTIA](https://reddit.com/r/CompTIA) - All CompTIA certifications (Security+, CySA+, CASP+) study guides and exam tips.
--  [r/CISSP](https://reddit.com/r/CISSP) - CISSP certification study groups, experience sharing, and continuing education.
--  [r/OSCP](https://reddit.com/r/OSCP) - Offensive Security Certified Professional exam preparation and lab discussions.
--  [r/Cisco](https://reddit.com/r/Cisco) - Cisco security certifications (CCNA Security, CCNP Security) and networking security.
--  [r/IT_CERT_STUDY](https://reddit.com/r/IT_CERT_STUDY) - General IT certification discussions including security-focused credentials.
+## 📚 All Projects (112 Total)
 
-## **Malware & Threat Intelligence**
-16. **r/Malware** - Malware analysis, reverse engineering, and threat research discussions.
-    - https://reddit.com/r/Malware
+<div align="center">
 
-17. **r/ReverseEngineering** - Binary reverse engineering, malware dissection, and tool sharing.
-    - https://reddit.com/r/ReverseEngineering
+### 🎮 Interactive Demo Available!
+**[🌐 Visit Live Website](https://100-days-100-web-project.vercel.app/)** to see all projects with working demos!
 
-18. **r/threatintel** - Threat intelligence sharing, IOCs, and strategic threat analysis.
-    - https://reddit.com/r/threatintel
+</div>
 
-19. **r/blueteamsec** - Defensive security, incident response, and blue team operations.
-    - https://reddit.com/r/blueteamsec
+| Day | Project Name | Technologies | Type | Demo Link |
+|-----|--------------|-------------|------|-----------|
+| 1 | To-Do List | HTML, CSS, JS | 📝 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 2 | Digital Clock | HTML, CSS, JS | ⏰ Widget | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 3 | Indian Flag | HTML, CSS | 🎨 Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 4 | Dropdown Nav Bar | HTML, CSS, JS | 🧭 Navigation | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 5 | Animated Cursor | HTML, CSS, JS | ✨ Effect | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 6 | Background Image Slider | HTML, CSS, JS | 🖼️ Slider | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 7 | Typewriter Effect | HTML, CSS, JS | ⌨️ Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 8 | Parallel-X Website | HTML, CSS, JS | 🌐 Website | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 9 | Captcha Generator | HTML, CSS, JS | 🔐 Security | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 10 | QR Code Generator | HTML, CSS, JS | 📱 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 11 | Express Server | Node.js, Express | 🖥️ Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 12 | Gmail Nodemailer | Node.js, Nodemailer | 📧 Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 13 | MERN Login Form | MongoDB, Express, React, Node | 🔐 Full-Stack | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 14 | File Uploader | Node.js, Express | 📁 Utility | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 15 | Progress Bar | HTML, CSS, JS | 📊 UI Component | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 16 | Custom Scroll Bar | CSS | 🎨 UI Component | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 17 | Swiper API Slider | HTML, CSS, JS | 🖼️ Slider | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 18 | Carousel Solar System | HTML, CSS, JS | 🪐 Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 19 | Plant Website | HTML, CSS, JS | 🌱 Website | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 20 | EveSparks | HTML, CSS, JS | ✨ Website | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 21 | React Video Slider | React, Vite | 🎥 React App | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 22 | Page Loader | HTML, CSS, JS | ⏳ Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 23 | Jarvis AI Assistant | HTML, CSS, JS | 🤖 AI | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 24 | AI ChatBot | HTML, CSS, JS | 💬 AI | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 25 | Tic-Tac-Toe | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 26 | Maze Game | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 27 | Memory Game | HTML, CSS, JS | 🧠 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 28 | Wordle Clone | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 29 | Snake Game | HTML, CSS, JS | 🐍 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 30 | Flappy Bird | HTML, CSS, JS | 🐦 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 31 | Password Manager | HTML, CSS, JS | 🔐 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 32 | Missionaries & Cannibals | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 33 | Weather Forecasting | HTML, CSS, JS | 🌤️ App | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 34 | Email Validator | HTML, CSS, JS | ✅ Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 35 | Vanilla JS Calculator | HTML, CSS, JS | 🧮 Calculator | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 36 | Medical App | HTML, CSS, JS | 🏥 App | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 37 | 2048 Game | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 38 | GitHub Profile Finder | HTML, CSS, JS, API | 👤 Utility | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 39 | Notes App | HTML, CSS, JS | 📝 App | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 40 | Analog Clock | HTML, CSS, JS | ⏰ Widget | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 41 | Scroll Dark Game | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 42 | Amazon Clone | HTML, CSS, JS | 🛒 E-commerce | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 43 | Password Generator | HTML, CSS, JS | 🔐 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 44 | BMI Calculator | HTML, CSS, JS | 🧮 Calculator | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 45 | BlackJack Game | HTML, CSS, JS | 🎰 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 46 | Palindrome Generator | HTML, CSS, JS | 📝 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 47 | Ping Pong Game | HTML, CSS, JS | 🏓 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 48 | Text to Voice Converter | HTML, CSS, JS | 🔊 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 49 | URL Shortener | Node.js, Express | 🔗 Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 50 | Recipe Genie | React, Node.js | 🍳 Full-Stack | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 51 | Netflix Clone | HTML, CSS, JS | 🎬 Clone | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 52 | ClimaCode 2.0 | HTML, CSS, JS | 🌤️ App | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 53 | E-commerce Cart | HTML, CSS, JS | 🛒 E-commerce | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 54 | Budget Tracker | HTML, CSS, JS | 💰 Finance | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 55 | Cricket Game | HTML, CSS, JS | 🏏 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 56 | Pastebin Clone | Svelte | 📝 App | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 57 | Glowing Social Icons | HTML, CSS | ✨ UI Component | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 58 | Music App | HTML, CSS, JS | 🎵 App | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 59 | Blog Page | HTML, CSS, JS | 📝 Blog | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 60 | Marketing Website | HTML, CSS, JS | 🌐 Website | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 61 | Hologram Button | HTML, CSS | ✨ UI Component | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 62 | Solar System Explorer | HTML, CSS | 🪐 Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 63 | Image to Text App | HTML, CSS, JS | 🖼️ OCR | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 64 | Zomato Clone | HTML, CSS, JS | 🍕 Clone | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 65 | The Cube | HTML, CSS | 🎲 3D Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 66 | Flask Auth App | Python, Flask | 🔐 Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 67 | Blog Website | HTML, CSS, JS | 📝 Blog | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 68 | 3D Rotating Card | HTML, CSS | 🎲 3D Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 69 | Spotify Clone | HTML, CSS, JS | 🎵 Clone | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 70 | Insect Catch Game | HTML, CSS, JS | 🐛 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 71 | Quotely Laughs | HTML, CSS, JS | 😂 Entertainment | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 72 | Contact Book | Node.js, Express | 📞 Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 73 | Candy Crush Game | HTML, CSS, JS | 🍭 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 74 | Stock Profit Calculator | HTML, CSS, JS | 📈 Finance | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 75 | Code Jump Space Game | HTML, CSS, JS | 🚀 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 76 | Animated Searchbar | HTML, CSS, JS | 🔍 UI Component | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 77 | Rock Paper Scissors | HTML, CSS, JS | ✂️ Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 78 | NPM Package Search | HTML, CSS, JS | 📦 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 79 | LinkedIn Clone | HTML, CSS, JS | 💼 Clone | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 80 | Resume Studio | HTML, CSS, JS | 📄 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 81 | Simon Says Game | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 82 | Love Calculator | HTML, CSS, JS | 💕 Fun | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 83 | Currency Exchange | HTML, CSS, JS | 💱 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 84 | Lights Out Puzzle | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 85 | Image Search Engine | HTML, CSS, JS | 🔍 Search | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 86 | 3D Profile Card | HTML, CSS | 🎲 3D Animation | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 87 | Breakout Game | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 88 | Job Dashboard | HTML, CSS, JS | 💼 Dashboard | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 89 | N-Queen Solver | HTML, CSS, JS | 👑 Algorithm | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 90 | Quiz App Timer | HTML, CSS, JS | ❓ Quiz | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 91 | Voting App Backend | Node.js, Express | 🗳️ Backend | [GitHub](https://github.com/dhairyagothi/100_days_100_web_project) |
+| 92 | Slide Puzzle Game | HTML, CSS, JS | 🧩 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 93 | TextUtils | React | ✏️ React App | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 94 | Hangman Game | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 95 | TodoList React TS | React, TypeScript, Tailwind | 📝 React App | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 96 | HCL Color Generator | HTML, CSS, JS | 🎨 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 97 | Time Capsule | HTML, CSS, JS | ⏰ Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 98 | Virtual Piano | HTML, CSS, JS | 🎹 Music | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 99 | NASA APOD Extension | HTML, CSS, JS | 🚀 Extension | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 100 | Text Saver Extension | HTML, CSS, JS | 💾 Extension | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 101 | Finance Tracker | HTML, CSS, JS | 💰 Finance | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 102 | Travel Booking Website | HTML, CSS, JS | ✈️ Travel | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 103 | Drumkit Game | HTML, CSS, JS | 🥁 Music | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 104 | Debug Website | HTML, CSS, JS | 🐛 Development | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 105 | Periodic Table | HTML, CSS, JS | 🧪 Educational | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 106 | Plants Website | HTML, CSS, JS | 🌱 Website | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 107 | DocNow | HTML, CSS, JS | 📄 Utility | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 108 | Expense Tracker | HTML, CSS, JS | 💸 Finance | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 109 | Mood Tracker | HTML, CSS, JS | 😊 Wellness | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 110 | CRYPTOSHOW | HTML, CSS, JS | 💰 Crypto | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 111 | Whack-a-Mole Game | HTML, CSS, JS | 🎮 Game | [View Demo](https://100-days-100-web-project.vercel.app/) |
+| 112 | Nykaa Clone | HTML, CSS, JS | 💄 Clone | [View Demo](https://100-days-100-web-project.vercel.app/) |
 
-20. **r/antivirus** - Antivirus software, endpoint protection, and detection discussions.
-    - https://reddit.com/r/antivirus
+### 📊 Project Categories:
+- 🎮 **Games**: 25+ interactive games and puzzles
+- 🧮 **Calculators & Tools**: 15+ utility applications  
+- 🌐 **Websites & Clones**: 20+ complete website replicas
+- 📱 **Apps**: 15+ functional web applications
+- 🎨 **UI Components**: 10+ reusable interface elements
+- 🖥️ **Backend Projects**: 10+ server-side applications
+- ⚛️ **React Projects**: 8+ modern React applications
 
-## **Network Security**
-21. **r/networking** - Enterprise networking with security focus, firewalls, and network architecture.
-    - https://reddit.com/r/networking
+## Getting Started
 
-22. **r/homenetworking** - Securing home networks, router configurations, and IoT security.
-    - https://reddit.com/r/homenetworking
+<!-- ⚠️ new update: Read carefully👉 https://github.com/100_days_100_web_project/discussions/1028 -->
 
-23. **r/pfsense** - pfSense firewall configuration, VPN setup, and network security.
-    - https://reddit.com/r/pfsense
+## 🚀 Quick Start
 
-24. **r/opnsense** - OPNsense firewall discussions and security implementations.
-    - https://reddit.com/r/opnsense
+### 🌐 View Projects Online
+The easiest way to explore all projects is through our **live website**:
+- **🔗 Visit:** [100-days-100-web-project.vercel.app](https://100-days-100-web-project.vercel.app/)
+- **✨ Features:** Search projects, view demos, dark/light theme
 
-25. **r/VPN** - VPN technologies, privacy tools, and secure communications.
-    - https://reddit.com/r/VPN
+### 💻 Local Development
 
-## **Operating System Security**
-26. **r/LinuxAdmin** - Linux system administration with security hardening focus.
-    - https://reddit.com/r/LinuxAdmin
+1. **Clone the repository:**
+   ```bash
+   # Using Git
+   git clone https://github.com/dhairyagothi/100_days_100_web_project.git
+   
+   # Or use GitHub Desktop for GUI cloning
+   ```
 
-27. **r/linuxsecurity** - Linux-specific security tools, hardening guides, and vulnerability discussions.
-    - https://reddit.com/r/linuxsecurity
+2. **Navigate to project directory:**
+   ```bash
+   cd 100_days_100_web_project
+   ```
 
-28. **r/WindowsSysAdmin** - Windows Server security, Active Directory, and enterprise Windows hardening.
-    - https://reddit.com/r/WindowsSysAdmin
+3. **Open the main website:**
+   - Simply open `index.html` in your browser
+   - Or use a local server (recommended):
+   ```bash
+   # Using Python
+   python -m http.server 8000
+   
+   # Using Node.js
+   npx serve .
+   
+   # Using VS Code Live Server extension
+   ```
 
-29. **r/PowerShell** - PowerShell for security automation, incident response, and forensic collection.
-    - https://reddit.com/r/PowerShell
+4. **For individual projects:**
+   - Navigate to `public/[project-name]/`
+   - Open the project's `index.html` file
+   - For Node.js projects, see individual README files
 
-30. **r/macsysadmin** - macOS security management, MDM, and enterprise Apple device security.
-    - https://reddit.com/r/macsysadmin
+### 🧩 Project Structure
+```
+100_days_100_web_project/
+├── index.html              # Main showcase website
+├── index.js               # Main website functionality
+├── style.css              # Main website styles
+├── public/                # All individual projects
+│   ├── TO_DO_LIST/       # Day 1: Todo List
+│   ├── digital_clock/    # Day 2: Digital Clock
+│   ├── snake_game/       # Day 29: Snake Game
+│   └── ...               # 112+ projects
+├── contributors/          # Contributors page
+├── vercel.json           # Deployment configuration
+└── README.md             # You are here!
+```
 
-## **Cloud Security**
-31. **r/aws** - Amazon Web Services security best practices, IAM, and compliance.
-    - https://reddit.com/r/aws
+## 🤝 Contributing
 
-32. **r/Azure** - Microsoft Azure security, Sentinel SIEM, and cloud governance.
-    - https://reddit.com/r/Azure
+We welcome contributions from developers of all skill levels! Here's how you can contribute:
 
-33. **r/googlecloud** - Google Cloud Platform security, Chronicle SIEM, and cloud architecture.
-    - https://reddit.com/r/googlecloud
+### 🆕 Adding New Projects
+1. **Fork** the repository
+2. **Create** a new branch: `git checkout -b add-new-project`
+3. **Add** your project in the `public/` directory
+4. **Update** the project list in `index.js`
+5. **Test** your project thoroughly
+6. **Submit** a pull request
 
-34. **r/cloudsecurity** - Multi-cloud security strategies, CASB, and cloud compliance frameworks.
-    - https://reddit.com/r/cloudsecurity
+### 🐛 Bug Fixes & Improvements
+1. **Fork** the repository
+2. **Create** a new branch: `git checkout -b fix-bug-name`
+3. **Make** your changes
+4. **Test** thoroughly
+5. **Submit** a pull request
 
-35. **r/devsecops** - Integrating security into DevOps pipelines, automation, and secure coding.
-    - https://reddit.com/r/devsecops
+### 📝 Documentation
+- Improve README files
+- Add project descriptions
+- Fix typos and formatting
+- Add setup instructions
 
-## **Programming Security**
-36. **r/securecoding** - Secure development practices, code review, and vulnerability prevention.
-    - https://reddit.com/r/securecoding
+### 📋 Contribution Guidelines
+- Follow existing code style and structure
+- Add appropriate comments to your code  
+- Test your changes before submitting
+- Include a clear commit message
+- Update documentation if needed
 
-37. **r/websecurity** - Web application security, OWASP, and secure development lifecycle.
-    - https://reddit.com/r/websecurity
+**📖 For detailed guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md)**
 
-38. **r/AskProgramming** - Security-focused programming questions and secure architecture discussions.
-    - https://reddit.com/r/AskProgramming
+## 🎯 Learning Path
 
-39. **r/python** - Python for security tools, automation, and scripting with security libraries.
-    - https://reddit.com/r/python
+### 🌱 Beginner Projects (Days 1-30)
+Perfect for those just starting with web development:
+- HTML/CSS fundamentals
+- Basic JavaScript interactions
+- Simple animations and effects
 
-40. **r/PowerShell** - Security automation, forensic scripts, and incident response tools.
-    - https://reddit.com/r/PowerShell
+### 🚀 Intermediate Projects (Days 31-70)
+For developers with some experience:
+- API integrations
+- Complex animations
+- Interactive games and applications
 
-## **Privacy & Cryptography**
-41. **r/privacy** - Digital privacy, surveillance, and personal security measures.
-    - https://reddit.com/r/privacy
+### 🔥 Advanced Projects (Days 71-112)
+Challenging projects for experienced developers:
+- Full-stack applications
+- Complex algorithms
+- Modern frameworks (React, Node.js)
 
-42. **r/crypto** - Cryptography theory, implementation, and cryptographic protocol discussions.
-    - https://reddit.com/r/crypto
+## 🛠️ Technologies Used
 
-43. **r/privacytoolsIO** - Privacy-focused software recommendations and security tool reviews.
-    - https://reddit.com/r/privacytoolsIO
+<div align="center">
 
-44. **r/encryption** - Encryption algorithms, key management, and data protection strategies.
-    - https://reddit.com/r/encryption
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-45. **r/TOR** - Tor network, onion services, and anonymous communications research.
-    - https://reddit.com/r/TOR
+</div>
 
-## **Incident Response & Forensics**
-46. **r/computerforensics** - Digital forensics techniques, tool discussions, and case studies.
-    - https://reddit.com/r/computerforensics
+## 📞 Support & Community
 
-47. **r/incidentresponse** - IR procedures, playbooks, and breach handling methodologies.
-    - https://reddit.com/r/incidentresponse
+### 🆘 Need Help?
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/dhairyagothi/100_days_100_web_project/discussions)
+- 🐛 **Bug Reports**: [Open an Issue](https://github.com/dhairyagothi/100_days_100_web_project/issues)
+- 📧 **Direct Contact**: Create an issue for any questions
 
-48. **r/memoryforensics** - Memory analysis, volatility framework, and RAM extraction techniques.
-    - https://reddit.com/r/memoryforensics
+### 🌟 Stay Connected
+- 📱 **Instagram**: [@dhairyaa__31](https://www.instagram.com/dhairyaa__31/)
+- 💼 **LinkedIn**: [Dhairya Gothi](https://www.linkedin.com/in/dhairya-gothi-65945b288/)
+- 🐙 **GitHub**: [@dhairyagothi](https://github.com/dhairyagothi)
 
-49. **r/loganalysis** - SIEM log analysis, correlation rules, and threat hunting with logs.
-    - https://reddit.com/r/loganalysis
+## 📊 Repository Stats
 
-50. **r/DFIR** - Digital Forensics and Incident Response combined community.
-    - https://reddit.com/r/DFIR
+<div align="center">
 
-## **Governance & Compliance**
-- [r/GRC]( https://reddit.com/r/GRC) - Governance, Risk, and Compliance frameworks, audits, and regulatory discussions.
-- [r/sox](https://reddit.com/r/sox) - Sarbanes-Oxley compliance, IT controls, and audit procedures.
+![GitHub repo size](https://img.shields.io/github/repo-size/dhairyagothi/100_days_100_web_project?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/dhairyagothi/100_days_100_web_project?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/dhairyagothi/100_days_100_web_project?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/dhairyagothi/100_days_100_web_project?style=for-the-badge)
 
-53. **r/ISO27001** - ISO 27001 implementation, ISMS, and certification guidance.
-    - https://reddit.com/r/ISO27001
+</div>
 
-54. **r/HIPAA** - Healthcare data security, HIPAA compliance, and medical IT security.
-    - https://reddit.com/r/HIPAA
+## ⭐ Show Your Support
 
-55. **r/PCI** - Payment Card Industry compliance and secure payment processing.
-    - https://reddit.com/r/PCI
+If this project helped you, please consider:
+- ⭐ **Starring** this repository
+- 🍴 **Forking** it to contribute
+- 📢 **Sharing** it with others
+- 💖 **Following** for more amazing projects
 
-## **Specialized Security**
-56. **r/AskNetsec** - Questions and answers for network security professionals and students.
-    - https://reddit.com/r/AskNetsec
+## 🏆 Contributors
 
-57. **r/securityCTF** - Security Capture The Flag events, team building, and practice platforms.
-    - https://reddit.com/r/securityCTF
+Thanks to all these amazing people who have contributed to this project:
 
-- [r/bugbountyforumhttps://reddit.com/r/bugbountyforum) - Advanced bug bounty discussions, private program invites, and technique sharing.
-- [r/hacking](https://reddit.com/r/hacking) - General hacking discussions with focus on ethical security research.
-- [r/SocialEngineering](https://reddit.com/r/SocialEngineering) - Social engineering awareness, human security factors, and security psychology.
-    - 
+<div align="center">
+
+<a href="https://github.com/dhairyagothi/100_days_100_web_project/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dhairyagothi/100_days_100_web_project" />
+</a>
+
+</div>
 
 ---
 
-**Pro Tip**: Join the **Discord servers** linked in many of these subreddits' sidebars for real-time discussions and faster help with specific security questions!
+<div align="center">
 
--  
+**💖 Made with love by the open source community**
 
+**🌟 Don't forget to star this repository if you found it helpful!**
 
+[![Star History Chart](https://api.star-history.com/svg?repos=dhairyagothi/100_days_100_web_project&type=Date)](https://star-history.com/#dhairyagothi/100_days_100_web_project&Date)
 
+</div>
