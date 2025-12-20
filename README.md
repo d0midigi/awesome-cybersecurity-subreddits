@@ -1,241 +1,490 @@
-<!--
-  <<< Author notes: Header of the course >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
--->
-
-# Awesome Cybersecurity Subreddits
-
-_Awesome subreddits that wield great breadth of information, documentation, advice, solutions, eye-openers, for some, security, cybersecurity, personal computing, hardware, and appliance manufacturers, to all things threat, risk, vulnerability and network security related. Informational overload. • This curated list is non-exclusive, and listed in no particular order.•_
-
-# Awesome Subreddits
-• [r/AccessCyber](https://www.reddit.com/r/AccessCyber) - This relatively new subreddit offers cybersecurity career, training and education resources for "Digital Defenders." Largely a curated list of links, AccessCyber is a useful source of info for anyone looking to improve or develop their skills, from beginners to those branching out into any of infosec's many specialty areas.
-
-• [r/apple](https://www.reddit.com/r/apple) - Billing itself as "the unofficial Apple community, r/apple boasts an incredible 2.6 million members. While the focus on here is news, rumors, opinions, and analysis pertaining to Apple, its devices and software, there's a number of useful flairs like the [Daily Advice Thread](https://www.reddit.com/r/apple/comments/oio728/daily_advice_thread/) which can be used to ask for technical advice. Want to learn how to send your watch or iPhone a message from your Mac when some long running Terminal job completes? You'll find that and many other goodies there.
-
-• [r/AskNetsec](https://www.reddit.com/r/AskNetsec) - This subreddit takes a Q&A format and offers a place to ask questions about information security and network security from an enterprise perspective. With over 150k members, you have access to a lot of expertise in one place for all of your infosec questions. This subreddit is also worth browsing as it contains a mine of information about both common and esoteric problems.
-
-• [r/BadApps](https://www.reddit.com/r/BadApps/) - Malware in proprietary app stores is one of those nasty problems that can really hurt, as both users (and sometimes security software) have a poor habit of trusting software that comes from, well, trusted sources. Google's Play Store has had more than its fair share of this problem over the years to the point where this subreddit was built. r/BadApps is here to discuss and coordinate the reporting of such "bad apps" from the Play Store.
-
-• [r/blackhat](https://www.reddit.com/r/blackhat/) - If vulnerabilities and exploitation are your thing, then you need to head over to this subreddit. Here you'll find a library of hacking techniques and research on all the latest attacks as well as more general topics like how to track the source of an image when Google Reverse Image does not work, cryptography for pentesters, and links to both free and paid hacking tutorials and courses. This subreddit also has an IRC-style [web chat](https://chat.breaking.technology/#/) site for live discussions.
-
-• [r/blueteamsec](https://www.reddit.com/r/blueteamsec) - The [r/blueteamsec](https://www.reddit.com/r/blueteamsec) subreddit focuses on technical intelligence, research, and engineering to help Blue and Purple Teams defend their estates. Some of the useful flairs include [tradecraft](https://www.reddit.com/r/blueteamsec/?f=flair_name%3A%22tradecraft%20(how%20we%20defend)%22) (how we defend), [intelligence](https://www.reddit.com/r/blueteamsec/?f=flair_name%3A%22intelligence%20(threat%20actors)%22) (threat actors), and a Q&A flair for questions called [help me obiwan](https://www.reddit.com/r/blueteamsec/?f=flair_name%3A%22help%20me%20obiwan%20(ask%20the%20blueteam)%22) (ask the Blue Team). With over 16,000 "hunters" and "analysts," it's a community where every Blue Teamer should consider joining.
-
-• [r/cissp](https://www.reddit.com/r/cissp) - If you're thinking about becoming a Certified Information Systems Security Professional, then you are going to want to see what you can learn from r/cissp and its nearly 40,000-strong community. This subreddit covers issues, questions, and materials regarding studying, writing, and working with the CISSP exam certification.
-
-• [r/CompTIA](https://www.reddit.com/r/CompTIA) - CompTIA is one of those certs that prospective employers will either ask for or be pleased to see on your resume. There's over 1 million certified CompTIA professionals out there, but don't think that means the exams are easy. Underestimating the difficulty of the exams and the amount of study required is a common cause of failure. However, over at r/ComptTIA, they've got you covered. From the "looking to get certified," to conversations and questions from current students, this subreddit dedicated to all CompTIA certifications.
-
-• [r/computerforensics](https://www.reddit.com/r/computerforensics) - If computer forensics and [DFIR](https://www.reddit.com/r/dfir/) are your thing, then check out this subreddit. Dedicated to the branch of forensic science encompassing the recovery and investigation of material found in digital devices, this subreddit is not limited to just personal computers-it encompassess all media that may also fall under digital forensics (such as cellphones and video).
-
-• [r/dfir](https://www.reddit.com/r/dfir/) - A subreddit to discuss and share news, content, whitepapers, research, tutorials, webinars, or anything else regarding digital forensics and incident response.
-
-• [r/ComputerSecurity](https://www.reddit.com/r/ComputerSecurity/) - This subreddit provides a curated list of links to IT security news, articles, and tools as well as a place to ask cybersecurity-related questions. Questions here span the basics like "How can I best protect my PC on a home entwork?" to the technically-related questions such as "Can I create a secure port for my cable-supplied router?" With almost 30,000 members, there's certain to be a slew of answers for any well-crafted question.
-
-• [r/Crypto](https://www.reddit.com/r/crypto/) - This technical subreddit covers the theory and practice of modern cryptography, with a focus on strong algorithms and implementation. There are nearly 20,000 members discussing the "art of creating mathematical assurances for those who can do what with data, including, but not limited to, encryption of messages such that only the keyholder can read it."
-
-• [r/Cyber](https://www.reddit.com/r/cyber) - The r/Cyber subreddit bills "Cyber" as "the 5th Domain of Warfare," and given the geographical, corporate, and intelligence of cyber security in recent years, that's no overstatement. This community was founded back in 2010 from an abandoned subreddit and recently hiy 10,000 members. Here you'll find a mix of posts revolving around the APTs, government policy, breach organizations, and law enforcement alerts from the likes of CISA, the FBI, and more.
-
- [r/cyberlaws](https://www.reddit.com/r/cyberlaws) - If you're interested in the intersection between computing and the law, this subreddit and its 34,000 members is your next stop. Dedicated to legal news linked to technology, its remit covers computer crime, copyright, privacy, free speech, intellectual property, net-neutrality, and more. You'll also find posts here listing "are clickbots legal for use on your own website?' That answer, by the way, is yes.
- 
- [r/Cybersecurity101](https://www.reddit.com/r/Cybersecurity101/) - In contrast to r/cybersecurity for professionals, r/Cybersecurity101 is the place to head for discussion of beginner topics concerning cybersecurity and privacy from a home, family, and personal perspective. Basic questions like "Am I being keylogged?" to "Does my PC have malware, a keylogger, or a RAT on it?" are common themese as well as similar concerns relating to mobile devices. If you're concerned about your personal device security and not sure where to turn, this is the subreddit for you.
- 
- [r/CyberSecurityJobs](https://www.reddit.com/r/CyberSecurityJobs) - If you're looking for a new gig or just getting into the world of infosec, then this subreddit should be on your list of regular stops. This subreddis has the latest jobs in Information Security, covering current job listings in cybersecurity, digital forensics, incident response, and related fields. There's also a "Mega Thread" where job seekers are welome to post in the community to attract potential employers.
- 
- [r/datarecovery](https://www.reddit.com/r/datarecovery/) - This subreddit exists as a place to disucss the ins and outs of data recovery, both logical and physical. The moderators warn, however, that discussion is primarily aimed at education and information and that DIY data recovery is a risky business (tl;dr: go to a professional!). That said, this subreddit is fulled with useful tips and tricks as well as advice on how to find a data recovery specialist without burning a hole in your wallet.
- 
- [r/ethicalhacking](https://www.reddit.com/r/ethicalhacking/) - This subreddit caters to those interested in discussing computer hacking doen for ethical purposes. There are flairs for newcomers as well as careers, but the majority of discussion will introduce or develop your knowledge of topics like WiFi hacking, web vulnerabilities, pentesting, social engineering and essential tools like Kali Linux and Metasploit.
- 
- [r/exploitdev](https://www.reddit.com/r/exploitdev/) - This is the place to be for anyone interested in exploit development. Posts cover the whole spectrum of exploitation topics from basic beginner guides to advanced questions on shellcode and return-oriented programming. Whether you are interested in learning about buffer overflows, binary exploitation, fuzzing, or developing your CTF skills, you'll find plenty of interest in this subreddit.
- 
- [r/fulldisclosure](https://www.reddit.com/r/fulldisclosure/) - Over at r/fulldisclosure you will find a wealth of information related to breaches, data leaks, exploits, vulnerabilities, and both informed and uniformed disclosures and [zero days](https://www.sentinelone.com/blog/zero-day-survival-guide-everything-need-know/). Somewhat controversially, this subreddit declares that it will not remove posts on zero day exploits. Fortunately, this forum does not have a lot of traffic, but since it has been around since 2012, it provides an interesting and useful archive for researchers, and curious people alike.
- 
- [r/zeroday](https://www.reddit.com/r/zeroday/) - This subreddit posts everything zero day-related from the newest exploits, to technical questions, to members showcasing and promoting projects. This subreddit is essential for zero day information and knowledge.
- 
- [r/HackBloc](https://www.reddit.com/r/HackBloc/) - If you like to mix your hacking interests with politics, then [hacktivism](https://www.sentinelone.com/blog/what-is-hacktivism-and-why-should-enterprise-care/) subreddit r/HackBloc may be for you. This community promotes itself as covering all interests relating to Hacktivism, Crypto-Anarchy, Darknets, and Free Culture and claims to be "proudly feminist, Anarchist, Anti-Capitalist, Anarchist hackers." That should give you a fairly good indication of whether this subreddit is for you, or not. If the answer is yes, you will find plenty of help and common interest among its 23,000 members.
- 
- [r/hackers](https://www.reddit.com/r/hackers) - The r/hackers subreddit shines a light on the most recent, interesting, and historical hacks. Topics are not necessarily technical, but also covers social engineering, commonly the most effective way to gain access to someone's account, etc. This community is not a Q&A help forum, but mainly caters to an audience seeking detailed news.
- 
- [r/Hackersec](https://www.reddit.com/r/hackersec/) - r/Hackersec bills itself as a place to learn, interact, and share information on Cybersecurity, CTFs, programming, cryptography, anonymity, and other security-focused topics. THe moderators are keen to point out, however, that the community does not welcome questions asking for help hacking in the sense of recruting others and posts offering hacking services are likely to be banned. Welcome content includes technical how-to guides, infosec developments, and newbies trying to learn fundamentals.
- 
- [r/hacking](https://www.reddit.com/r/hacking) - The r/hacking subreddit is dedicated to hacking and hackers. Constructive collaboration and learning about exploits, inudstry standards, Grey and White hat hacking, new hardware and software, hacking technologies, sharing ideas and suggestions for small businesses and personal security: This community has an incredible 1.9 million members and is never short of interesting questions from broad advice on how to start malware analysis to specific areas like how to embed custom code inside USB device memory (using a RubberDucky).
- 
- [r/Hacking_Tutorials](https://www.reddit.com/r/Hacking_Tutorials) - r/Hacking_Tutorials is a subreddit where members can post various resources that discuss and teach the art of hacking and pentesting while staying ethical and legal. There is, however, a pinned post on how to get started as well as a list of useful websites. If you're looking for a guided intro to something in infosec, this subreddit is a good place to start.
- 
- [r/HowToHack](https://www.reddit.com/r/HowToHack/) - This subreddit is an outlet for the Zempirian wargaming community, which aims to provide challenges to teach various hacking skills to the public. This subreddit has a stunning 390,000 members and includes filters for hacking, pentesting, exploitation, and script kiddie topics. Recent posts include questions like "What is your next step after gaining access to a network?" and "Posting my progress on becoming an ethical hacker/pentester."
- 
- [r/i2p](https://www.reddit.com/r/i2p) - The Invisible Internet Project [I2P] is a fully encrypted, decentralized private network layer that aims to protect user activity and location, and r/i2p is the subreddit dedicated to information and discussions related to the I2P anonymous network. All your questions on h ow to set up and get I2P to work are welcome here.
- 
- [r/Information_Security](https://www.reddit.com/r/Information_Security/) - Another general infosec subreddit, r/Information_Security is dedicated to providing information security news, analysis, and links to blog posts as well as member questions. Recent topics include questions like "What is the best way to break into infosec for someone with my experience?" to "Can Cisco VPN track/monitor my traffic on a personal device when disconnected?" Almost 18,000 members ensure plenty of fresh traffic.
- 
- [r/InfoSecNews](https://www.reddit.com/r/InfoSecNews%20-) - This subreddit is designed for users to post the latest information security-related news and articles from around the Internet. The subreddit is intended to provide a location one can come and receive updated security news including privacy and other security-related industries, or topics.
- 
- [r/IoT](https://www.reddit.com/r/IOT/) - r/IoT has a strong community of over 30,000 members where you can ask and learn about all things Internet-of-Things IoT]-related, including IoT security and preventive measures to bolster IoT security.
- 
- [r/ISO27001](https://www.reddit.com/r/ISO27001) - This subreddit aims to bring together like-minded professionals who want to network, discuss new and/or relevant or important topics and contribute to an active ISO27001 community. Here you'll find intro topics such as "I'm a new traveler on the ISO27001 journey, what should I focus on?" as well as plenty of links to ISO27001 training and certification.
- 
- [r/MacOS](https://www.reddit.com/r/MacOS/) - Security on macOS is of increasing important particularly in the Enterprise. Although the r/MacOS isn't a dedicated macOS cybersecurity subreddit, with 186,000 members, it is one of a number of places where new security issues can get an early mention and is worth keeping an eye on if you're trying to stay ahead of new and developing threats for Apple's desktop platform.
-
-[r/macsysadmin](https://www.reddit.com/r/macsysadmin) - This subreddit is definitely one for all you Mac admins out there. In this subreddit you'll find lots of useful posts related to Mac administrtion, scripting, configuration profiles, remote management, firewalls, networking, MFA, and other topics that impact macOS security.
-
-[r/malware](https://www.reddit.com/r/Malware/) - The r/malware subreddit is a community for malware reports and information and enjoys a healthy 53,000+ members. Here you'll find a wealth of information on the latest threats, and the forum is also a great place to ask your questions and find things like phishing analysis tools or just discover general malware resources altogether!
-
-[r/msp](https://www.reddit.com/r/msp) - If you're using or thinking about using a Managed Service Provider [MSP] in your organization, then r/msp is the subreddit for you. This community is heavily Q&A based with a lot of traffic from people seeking solutions to a wide variety of issues. With 113,000 members, there's also lots of answers and this is definitely a friendly community where you can get help to questions fast.
-
-[r/netsec](https://www.reddit.com/r/netsec/) - The r/netsec subreddit is a community for technical news and discussion of information security and closely related topics. This is is heavy on links to community-related tools available from GitHub and similar repositories for all manner of useful scripts and programs to solve common and not-so common security problems.
-
-[r/netsecstudents](https://www.reddit.com/r/netsecstudents/) - The r/netsecstudents is for students or anyone, really, studying network security. This is the place to ask questions regarding your netsec homework, or perhaps you need resources for certain subjects. Either way, you'll find them here. Users are welcome to contribute their own information, or resources, as well.
-
-[r/NetworkSecurity](https://www.reddit.com/r/NetworkSecurity/) - This small community of around 6,000 members doesn't seem to have a lot of traffic at the moment, but it has been around since 2011, so there's a wealth of useful archived material on enterprise and business network security topics, data centers, VPNs, and related netsec topics.
-
-[r/opendirectories](https://www.reddit.com/r/opendirectories) - The r/opendirectories is a subreddit for data hunters. Whether you're looking for manuals on old computers or lab equipment, or desperate to find some obscure e-book, then this subreddit is where you need to go. Listings of unprotected directories of images, videos, music, software, and otherwise interesting files, this is a good place to start.
-
-[r/osx](https://www.reddit.com/r/osx/) - Another general macOS-related subreddit, this community has been around since 2008 (that's OSX 10.5 Leopard era) and is another great place to keep up with what's happening in the Mac world, or to as questions. While there's definitely an emphasis on people running pre-macOS versions of Apple's Desktop system, there's still plenty of help requested and given for the newer versions and the newer M1 hardware.
-
-[r/privacy](https://www.reddit.com/r/privacy/) - Cruising in at over 1.2 million members, there's no mistaking that the r/privacy community is popular and an important place to swap news and join discussions around the intersections of technology, privacy, and freedom in the digital world.
-
-[r/pwned](https://www.reddit.com/r/pwned/) - The r/pwned subreddit discusses news of recent breaches, leaked, or stolen data, and other examples of pwnage affecting the confidentiality and integrity of data. You can filter by industry such as Finance, Technology, Healthcare, and Government.
-
-[r/redteamsec](https://www.reddit.com/r/redteamsec) - This subreddit is dedicated to not only Red Teams, but also Blue Teams and contains content including malware, tradecraft, and reverse engineering. Aside from links to breaking stories and helpful articles, there's also plenty of links to shared tools (both Teams can beenfit from using), techniques, and GitHub projects aimed at Red and Blue Teams.
-
-[r/regames](https://www.reddit.com/r/regames) - If you are interested in reverse engineering, then r/regames could be the ideal place for you. This is a subreddit for those who enjoy reverse engineering games, or for those who want to test and try out their skills! The reverse engineering games content in cludes figuring out how it works, defeating cheat detection mechanisms, and all of the other fun things that advanced problem-solving gives.
-
-[r/ReverseEngineering](https://www.reddit.com/r/reverseengineering) - With 110,000 members and a history that stretches back to 2008, the r/ReverseEngineering subreddit is the grandaddy of all things RE (Reverse Engineering) on Reddit. This amazing subreddit has a "Re Weekly Questions Thread," a "Triannual Hiring Thread," and offers a moderated community dedicated to all things reverse engineering. An absolute must for all who like taking software (and other things) apart.
-
-[r/SecurityCareerAdvice](https://www.reddit.com/r/SecurityCareerAdvice) - This subreddit bills itself as "like CSCareerQuestions, only cooler." It's 9,000 members offer a place to connect those seeking to learn with those who have walked the path before. Ask questions about cybersecurity careers here, and mentors can choose to answer if they have time, which they normally do. It remains a very active and sociable subreddit.
-
-[r/securityCTF](https://www.reddit.com/r/securityCTF) - Capture the Flag [CTF] completitions are a hallmark of the uber-hacker and there's no better subreddit to hang out for the CTF folks than at r/securityCTF. Here you'll find news and links to wargames, CTF tournaments, tutorials, and walkthroughs for challenges on [HackTheBox](https://www.hackthebox.com/) and other platforms.
-
-[r/TOR](https://www.reddit.com/r/TOR/) - The TOR subreddit boasts almost 180,000 users dedicated to news and discussion around the TOR anonymity software. This forum covers everything from setting up your initial TOR instance to concerns about the most anonymous and secure ways to setup and use The Onion Router software.
-
-[r/websecurity](https://www.reddit.com/r/websecurity) - As applications and services move to the web, avoiding web vulnerabilities such as XSS and CSFR becomes critical, and that's where the r/websecurity subreddit comes in. Here you';; find links and discussions on the development and maitnenace of secure websites, for website owners, developers, and pentesters.
-
-[r/antivirus](https://www.reddit.com/r/antivirus/) - Antivirus software options are discussed here, as well as tips and requests for hrlp on getting rid of viruses. This subreddit has been around for 10+ years and has almost 100,000 subscribers.
-
-[r/hackernews](https://www.reddit.com/r/hackernews/) - A collection of "hacker news" best submissions; this subreddit has a very active posting community and has been around for 12 years garnering 47,000 subscribers.
-
-[r/techsnap](https://www.reddit.com/r/techsnap/) - Systems, Network, and an Administrator podcast every one week. r/techsnap covers the stories that impact those in the tech industry, and those that follow it. Every episode dedicates a portion of the show to answer participating audience questions, discuss best practices, and solve user problems.
-
-[r/lockpicking](https://www.reddit.com/r/lockpicking/) - This subreddit is dedicated to the sport of lockpicking.
-
-[r/sysadmin](https://www.reddit.com/r/sysadmin) - This subreddit is dedicated to the profession of Computer System Administration with a whopping 735,000 members.
-
-[r/aws](https://www.reddit.com/r/aws/) - News, articles, and tools covering Amazon Web Services [AWS], including S3, EC2, SQS, RDS, DynamoDB, IAM, CloudFormation, Route 53, CloudFront, Lambda, VPC, Cloudwatch, Glacier, and more.
-
-[r/Cisco](https://www.reddit.com/r/Cisco/) - This subreddit is a dedicated Cisco Community Support Network.
-
-[r/commandline](https://www.reddit.com/r/commandline/) - This subreddit is for anything and everything regarding the command line, in any operating system. All questions, tips, and links to interesting programs/console appilcations members have found or made themselves are welcome to be posted to the community. Linux/BSD/OSX, Windows CLI and TUI apps or questions - the subreddit moderators are happy to take them all!
-
-[r/devops](https://www.reddit.com/r/devops/) - Welcome to everything DevOps.
-
-[r/docker](https://www.reddit.com/r/docker/) and [r/Dockerfiles](https://www.reddit.com/r/Dockerfiles/) - This subreddit is dedicated to Docker, which is an open-source project to easily create lightweight, portable, self-sufficient containers from any application. The same container that a developer builds and tests on a laptop can run at scale, in production, on VMs, bare metal, OpenStack clusters, public clouds, and more.
-
-[r/ipv6](https://www.reddit.com/r/ipv6/) - This subreddit is dedicated to the discussion of everything IPv6.
-
-[r/Juniper](https://www.reddit.com/r/Juniper/) - The Juniper subreddit is dedicated to discussing routers, switches, and security appliances manufactured by Juniper Networks.
-
-[r/nessus](https://www.reddit.com/r/nessus/) - This subreddit houses a vast amount of information for Tenable Nessus vulnerability scanner. This community is here to discuss Tenable Nessus scanners, and related topics.
-
-[r/servicenow](https://www.reddit.com/r/servicenow/) - This subreddit is dedicated to the ServiceNow business model based on providing products using SaaS computing software. The community is very helpful in providing tips and advice on how to setup systems to define, manage, automate, and structure services for companies.
-
-[r/NISTControls](https://www.reddit.com/r/NISTControls/) - This is a subreddit community for navigating the complicated world of NIST Publications and their Control Families. This community provides active discussions, resource sharing, news, recommendations for solutions specifically for the NIST SP 800-53 and NIST SP 800-171 publications. The community collaborates on implementing and maintaining the NIST Family Series of Controls.
-
-[r/linuxadmin](https://www.reddit.com/r/linuxadmin/) - This subreddit is all about expanding Linux SysAdmin Knowledge.
-
-[r/openstack](https://www.reddit.com/r/openstack/) - OpenStack is an open-source platform that uses pooled virtual resources to build and manage private and public clouds. This subreddit is all about OpenStack and discussions vary greatly from the tools that comprise the OpenStack platform (also called "projects") to how to handle the core cloud-computing services of computers, networking storage, identity, and image services, plus more.
-
-[r/selinux](https://www.reddit.com/r/selinux/) - This subreddit is here to help with and have discussons about SELinux, the Mandatory Access Control [MAC] security system which is part of most Linux distributions including RHEL, CentOS, Debian, Gentoo, Android, and more!
-
-[r/exchangeserver](https://www.reddit.com/r/exchangeserver/) - Microsoft Exchange Server subreddit. Post blog articles you like, KBs you wrote or ask questions. This subreddit is an open forum for Exchange Administrators, Engineers, Architects, and everyone "to get along," and ask questions.
-
-[r/homelab](https://www.reddit.com/r/homelab/) - Welcome to the friendly r/homelab subreddit where techies and sysadmin from everywhere are welcome to shair their home labs, projects, builds, etc.
-
-[r/talesfromtechsupport](https://www.reddit.com/r/talesfromtechsupport/) - This subreddit hosts "Tales from Tech Support," where they post stories about helping someone with a tech issue. "Did you tru turning it off and on again?"
-
-[r/iiiiiiitttttttttttt](https://www.reddit.com/r/iiiiiiitttttttttttt/) - The Information Technology Rage subreddit where they join you to come on in and bask in the warm glow of IT-related rage of all kinds!
-
-[r/windows](https://www.reddit.com/r/windows/) - r/windows is one of Reddit's largest communities for Microsoft Windows, the world's most popular computer operating system. This subreddit is not a tech support subreddit, so moderators advise users of if that's what you're looking for, head on over to [r/techsupport](https://www.reddit.com/r/techsupport).
-
-[r/techsupport](https://www.reddit.com/r/techsupport) - Stumped on a tech problem? Ask the techs here at r/techsupport and try to help others with their problems as well!
-
-[r/PowerShell](https://www.reddit.com/r/PowerShell/) - This subreddit is dedicated to PowerShell - a cross-platform (Windows, Linux, and macOS) automation tool and configuration framework optimized for dealing with structured data (e.g., JSON, CSV, XML), REST APIs, and object models. PowerShell includes a command-line shell, object-oriented scripting language, and a set of tools for executing scripts/cmdlets and managing modules.
-
-[r/networking](https://www.reddit.com/r/networking/) - This subreddit provides enterprise networking design, support, and discussion. Enterprise Networking - Routers, switches, wireless, and firewalls, Cisco, Juniper, Arista, Fortinet, and more are welcome.
-
-[r/ccna](https://www.reddit.com/r/ccna/) - This subreddit is fully dedicated to nothing but the Cisco Certified Network Associate examination/certification from Cisco Networks.
-
-[r/projectmanagement](https://www.reddit.com/r/projectmanagement/) - Make sure your posts have the appropriate topical flare. This is a safe and open subreddit environment dedicated to the promotion of project management methodlolgies, with the purpose of fostering and promoting free discussion about all things project management awesome.
-
-[r/microsoft](https://www.reddit.com/r/microsoft/) - Welcome to the Microsoft subreddit. Content here should be primarily about Microsoft's suite of services, products, and games, which are published. If you require support, please post your question within the pinned thread where the Social Media team will respond back to you.
-
-[r/itdrc](https://www.reddit.com/r/itdrc/) - The Information Technology Disaster Resource Center [ITDRC] was founded in 2008 to provide communities with the technical resources necessary to continue operations and begin recovery after a significant disaster. ITDRC harnesses the collective resources of the technology community to provide no cost Information, Communications, and Technology [ICT] solutions that connect survivors and responders in crisis.
-
-[r/technology](https://www.reddit.com/r/technology/) - Subreddit dedicated to the news and discussions about the creation and use of technology and its surrounding issues.
-
-[r/TechnologyProTips](https://www.reddit.com/r/TechnologyProTips/) - This subreddit delivers tips that can improve your tech knowledge one way or another. The only thing the subreddit's moderators ask for is for you to leave your favorite tip(s) you've picked up throughout your technological life.
-
-[r/hardware](https://www.reddit.com/r/hardware/) - A technical hardware-related subreddit for computer hardware, news, reviews, and intelligent discussions. Over 3 million members.
-
-[r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) - The leading subreddit community for cryptocurrency, news, discussions, and analysis.
-
-[r/Bitcoin](https://www.reddit.com/r/Bitcoin/) - Bitcoin is the currency of the Internet: a distributed, worldwide, decentralized form of digital money. Unlike traditional currencies such as dollars, Bitcoins are issued and managed without any central authority, whatsoever. There is no government, company, or bank in charge of Bitcoin. As such, it is more resistant to wild inflation and corrupt banks. With Bitcoin, you can be your own bank.
-
-[r/Netwrix](https://www.reddit.com/r/Netwrix) - Netwrix is a software company that enables information security and governance professionals to reclaim control over sensitive, regulated and business-critical data, regardless of where it resides. Over 10,000 organizations worldwide rely on Netwrix solutions to secure sensitive data, realize the full business value of enterprise content, pass compliance audits with less effort and expense, and increase the productivity of IT teams and knowledge workers.
-
-[r/debian](https://www.reddit.com/r/debian/) - Subreddit to discuss all the Debian things - the Universal Operating System.
-
-[r/vmware](https://www.reddit.com/r/vmware/) - This community caters to VMware professionals using VMware products in enterprise computing environments. Posts regarding hobbyist and personal use are welcome, but are held to a high standard of quality. Always read the rules before posting, and, per the moderators, "PLEASE state the product name and version when posting. VMware is a company, not a product!"
-
-[r/HyperV](https://www.reddit.com/r/HyperV/) - Welcome to HyperV. VMware's second cousin.
-
-[r/virtualization](https://www.reddit.com/r/virtualization/) - A subreddit about Virtualization as it is transforming computing from the datacenter to the desktop. News, comparisons, bugs, assistance, migration, anything: the team at r/virtualization are there to talk about it. P2V the world!
-
-[r/storage](https://www.reddit.com/r/storage/) - A subreddit for enterprise-level IT data storage-related questions, anecdotes, troubleshooting, requests/tips, and other related discussions.
-
-[r/management](https://www.reddit.com/r/management/) - This subreddit is focused on modern topics such as lean thinking, Deming, innovation, customer focus, six sigma, continual improvement, agile software development and related topics focused on viewing the organization as a system, evidence-based management and respect for people.
-
-[r/usefulscripts](https://www.reddit.com/r/usefulscripts/) - Bash, Python, PowerShell, Perl, etc.
-
-[r/M365Reports](https://www.reddit.com/r/M365Reports/) - All about Microsoft Office 365 (or, "O365.").
-
-[r/ccent](https://www.reddit.com/r/ccent/) - The Cisco Certified Entry Networking Technican [CCENT] subreddit for entry-level professionals, or freshers who are looking to start out with their first networking certification. CompTIA Nework+ is also a good choice for an entry-level certification.
-
-[r/paloaltonetworks](https://www.reddit.com/r/paloaltonetworks/) - This subreddit is for those that administer, support, or want to learn more about Palo Alto Networks' firewalls.
-
-[r/Splunk](https://www.reddit.com/r/Splunk/) - Welcome to the Splunk subreddit. Do you love big data and cannot lie? Need to take the SH out of IT? Need a ninja but they are too busy? If so, then you're in the right place! This is a place to discuss Splunk, the big data analytics software as it indexes and correlates information in a container that makes it searchable, and makes it possible to generate alerts, reports, and visualizations. Ask questions, share, tips, build apps!
-
-[r/suricata](https://www.reddit.com/t/suricata/) - Observe. Protect. Adapt. This is the Suricata subreddit. Suricata is a high performance, open-source network analysis and threat detection software used by most private and public organizations - it's even available for personal home use, now. Suricata's open-source detection engine enables the capability for it to act as an IDS/IPS. It was developed by the Open Information Security Foundation and its first beta release was 2009-12.
-
-[r/OPNsenseFirewall](https://www.reddit.com/r/OPNsenseFirewall/) - The pfSense project is a powerful open-source firewall and routing platform based on FreeBSD. Developed and maintained by Netgate.
-
-[r/nmap](https://www.reddit.com/r/nmap/) - Nmap is a network security scanner and is used to discover hosts and services on a computer network by sending packets and analyzing the response. Nmap provides a number of features for probing computer networks, including host discovery and service and operating system detection.
-
-[r/Python](https://www.reddit.com/r/Python/) - News about the programming language, Python. If you have something to teach others, post here. If you have questions, or are a newbie, use [r/learnpython](https://www.reddit.com/r/learnpython/).
-
-[r/learnpython](https://www.reddit.com/r/learnpython/) - Subreddit for posting questions and asking for general advice about Python coding.
-
-[r/pythonhelp](https://www.reddit.com/r/pythonhelp/) - A subreddit for posts that include helping from the most beginner of Python to the most advanced users of Python.
-
-[r/beginnersprojects](https://www.reddit.com/r/beginnerprojects/) - Have you just started Python and are looking for some simple projects to tackle and baseline your skill set? Check out this subreddit to find some beginner to intermediate Python projects.
-
-[r/pcicompliance](https://www.reddit.com/r/pcicompliance/) - A subreddit for PCI-DSS Violations, Assessments and Reporting.
-
-[r/pci](https://www.reddit.com/r/pci/) - All things Payment Card Industry Security and Compliance: Have answers or questions regarding PCI compliance? Come to where QSAs lurk and discuss PCI and how to make sure your, your vendors and all personally identifiable card holder/payment card data is secure!
-
-[r/hackthebox](https://www.reddit.com/r/hackthebox/) - Open discussions about the hackthebox.com machines.
-
-[r/metasploit](https://www.reddit.com/r/metasploit/) - This is the Metasploit subreddit where discussions about how to use the tool daily take place. There is an overwhelming amount of Metasploit resources in this subreddit from how-to guides, to cheat sheets, to best practices, to how to install the tool on different OS platforms - you name it, this subreddit is a haven for all things Metasploit.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+# Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+<p align="center">
+  <img src="https://github.com/sobolevn/awesome-cryptography/blob/master/awesome-crypto.png?raw=true" alt="Awesome Cryptography">
+</p>
+
+[![Follow us on twitter](https://img.shields.io/twitter/follow/awe_crypto_bot.svg?style=social&maxAge=0)](https://twitter.com/awe_crypto_bot)
+
+A curated list of cryptography resources and links.
+
+## Contents
+
+<!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
+
+- [Theory](#theory)
+  - [Algorithms](#algorithms)
+    - [Symmetric encryption](#symmetric-encryption)
+    - [Asymmetric encryption](#asymmetric-encryption)
+    - [Hash functions](#hash-functions)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Courses](#courses)
+  - [Other lists](#other-lists)
+- [Tools](#tools)
+  - [Standalone](#standalone)
+  - [Plugins](#plugins)
+    - [Git](#git)
+  - [Playgrounds](#playgrounds)
+- [Frameworks and Libs](#frameworks-and-libs)
+  - [C](#c)
+  - [C#](#c-sharp)
+  - [C++](#c-1)
+  - [Clojure](#clojure)
+  - [Common Lisp](#common-lisp)
+  - [Delphi](#delphi)
+  - [Elixir](#elixir)
+  - [Erlang](#erlang)
+  - [Golang](#go)
+  - [Haskell](#haskell)
+  - [Haxe](#haxe)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Julia](#julia)
+  - [Lua](#lua)
+  - [OCaml](#ocaml)
+  - [Objective-C](#objective-c)
+  - [PHP](#php)
+  - [Python](#python)
+  - [R](#r)
+  - [Ruby](#ruby)
+  - [Rust](#rust)
+  - [Scala](#scala)
+  - [Scheme](#scheme)
+  - [Swift](#swift)
+- [Resources](#resources)
+  - [Blogs](#blogs)
+  - [Mailing lists](#mailing-lists)
+  - [Web-tools](#web-tools)
+  - [Web-sites](#web-sites)
+- [Contributing](#contributing)
+- [License](#license)
+
+<!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
+
+- - -
+
+## Theory
+
+### Algorithms
+
+#### Symmetric encryption
+
+- [3DES](https://en.wikipedia.org/wiki/Triple_DES) - Symmetric-key block cipher (or Triple Data Encryption Algorithm (TDEA or Triple DEA), which applies the Data Encryption Standard (DES) cipher algorithm three times to each data block.
+- [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) - Symmetric-key block cipher algorithm and U.S. government standard for secure and classified data encryption and decryption (also known as Rijndael).
+- [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)) - Symmetric-key block cipher, designed in 1993 by Bruce Schneier. Notable features of the design include key-dependent S-boxes and a highly complex key schedule.
+
+#### Asymmetric encryption
+
+- [DH](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange) - A method of exchanging cryptographic keys securely over a public channel. Unlike RSA, the Diffie-Hellman Key Exchange is not encryption, and is only a way for two parties to agree on a shared secret value. Since the keys generated are completely pseudo-random, DH key exchanges can provide forward secrecy (https://en.wikipedia.org/wiki/Forward_secrecy).
+- [ECC](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography) - Public-key cryptosystems based on the algebraic structure of elliptic curves over finite fields.
+- [RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem)) - One of the first practical public-key cryptosystems and is widely used for secure data transmission. In RSA, this asymmetry is based on the practical difficulty of factoring the product of two large prime numbers, the factoring problem.
+
+#### Transform Encryption
+
+- [Transform Encryption (aka Proxy Re-Encryption)](https://docs.ironcorelabs.com/concepts/transform-encryption) - Transform encryption uses three  mathematically related keys: one to encrypt plaintext to a recipient, a second to decrypt the ciphertext, and a third to transform ciphertext encrypted to one recipient so it can be decrypted by a different recipient.
+
+#### Hash functions
+
+- [MD5](https://en.wikipedia.org/wiki/MD5) - Widely used hash function producing a 128-bit hash value. MD5 was initially designed to be used as a cryptographic hash function, but it has been found to suffer from extensive vulnerabilities. It can still be used as a checksum to verify data integrity, but only against unintentional corruption.
+- [SHA1](https://en.wikipedia.org/wiki/SHA-1) -  Cryptographic hash function designed by the NSA. SHA-1 produces a 160-bit hash value known as a message digest. SHA-1 is no longer considered secure against well-funded opponents.
+- [SHA2](https://en.wikipedia.org/wiki/SHA-2) - Set of hash functions designed by the NSA. SHA-256 and SHA-512 are novel hash functions computed with 32-bit and 64-bit words, respectively. They use different shift amounts and additive constants, but their structures are otherwise virtually identical, differing only in the number of rounds.
+- [SHA3](https://en.wikipedia.org/wiki/SHA-3) - Cryptographic hash function that produces a fixed-size output, typically 224, 256, 384, or 512 bits, from variable-size input data. It is part of the SHA-3 family of cryptographic algorithms designed to resist attacks from quantum computers and offers security properties such as pre-image resistance, second pre-image resistance, and collision resistance.
+
+### Articles
+
+- [How to Generate Secure Random Numbers in Various Programming Languages](https://paragonie.com/blog/2016/05/how-generate-secure-random-numbers-in-various-programming-languages).
+- [Password Insecurity](https://www.netlogix.at/news/artikel/password-insecurity-part-1/) - This article is written for everybody who is interested in password security.
+- [Secure Account Recovery Made Simple](https://paragonie.com/blog/2016/09/untangling-forget-me-knot-secure-account-recovery-made-simple).
+
+### Books
+
+- [A Graduate Course in Applied Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/) - The book covers many constructions for different tasks in cryptography.
+- [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html) - Introduction to modern cryptography.
+- [Applied Cryptography: Protocols, Algorithms and Source Code in C](https://www.wiley.com/en-ie/Applied+Cryptography%3A+Protocols%2C+Algorithms+and+Source+Code+in+C%2C+20th+Anniversary+Edition-p-9781119439028) - This cryptography classic provides you with a comprehensive survey of modern cryptography.
+- [Crypto101](https://www.crypto101.io/) - Crypto 101 is an introductory course on cryptography.
+- [Cryptography Engineering](https://www.schneier.com/books/cryptography_engineering/) - Learn to build cryptographic protocols that work in the real world.
+- [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/) - This book is intended as a reference for professional cryptographers.
+- [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) - Introductory-level treatment of cryptography written from a modern, computer science perspective.
+- [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - The book about OpenSSL.
+- [Practical Cryptography for Developers](https://cryptobook.nakov.com) - Developer-friendly book on modern cryptography (hashes, MAC codes, symmetric and asymmetric ciphers, key exchange, elliptic curves, digital signatures) with lots of code examples.
+- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - This book teaches you applied cryptographic techniques to understand and apply security at every level of your systems and applications.
+- [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - There is an extraordinary textbook written by Ross Anderson, professor of computer security at University of Cambridge.
+- [Serious Cryptography](https://nostarch.com/seriouscrypto) - A Practical Introduction to Modern Encryption by Jean-Philippe Aumasson.
+- [The Code Book](https://simonsingh.net/books/the-code-book/) - This book is a digest of the history of cryptography, covering both ancient times, and newer cryptography methods. There are exercises at the end and the solution of those was rewarded with $10.000.
+- [The Cryptoparty Handbook](https://unglue.it/work/141611/) - This book provides a comprehensive guide to the various topics of the computer and internet security.
+- [Understanding Cryptography](http://www.crypto-textbook.com/) - Often overlooked, this book is a boon for beginners to the field. It contains plenty of exercises at the end of each chapter, aimed at reinforcing concepts and cementing ideas.
+
+### Courses
+
+- [A Self-Study Course In Block-Cipher Cryptanalysis](https://www.schneier.com/wp-content/uploads/2016/02/paper-self-study.pdf) - This paper attempts to organize the existing literature of block-cipher cryptanalysis in a way that students can use to learn cryptanalytic techniques and ways to break algorithms, by Bruce Schneier.
+- [Applied Cryptography](https://www.udacity.com/course/applied-cryptography--cs387) - Cryptography is present in everyday life, from paying with a credit card to using the telephone. Learn all about making and breaking puzzles in computing.
+- [Crypto Strikes Back!](https://www.youtube.com/watch?v=ySQl0NhW1J0) - This talk will cover crypto vulnerabilities in widely-deployed systems and how the smallest oversight resulted in catastrophe.
+- [Cryptography](https://www.coursera.org/learn/cryptography) - A practical oriented course in Cryptography by University of Maryland College Park.
+- [Cryptography - Stanford University](http://online.stanford.edu/course/cryptography) - This course explains the inner workings of cryptographic primitives and how to correctly use them. Students will learn how to reason about the security of cryptographic constructions and how to apply this knowledge to real-world applications.
+- [Cryptography 101: Building Blocks](https://cryptography101.ca/crypto101-building-blocks/) - This introductory course (Fall 2024) by Alfred Menezes covers the fundamental cryptographic primitives: symmetric-key encryption, hash functions, MACs, authenticated encryption, public-key encryption, signatures, key agreement, RSA, elliptic curve cryptography.
+- [Cryptography I](https://www.coursera.org/learn/crypto) - The course begins with a detailed discussion of how two parties who have a shared secret key can communicate securely when a powerful adversary eavesdrops and tampers with traffic. We will examine many deployed protocols and analyze mistakes in existing systems.
+- [Cybrary Cryptography](https://www.cybrary.it/course/cryptography/) - This online course we will cover how cryptography is the cornerstone of security, and how through its use of different encryption methods, such as ciphers, and public or private keys, you can protect private or sensitive information from unauthorized access.
+- [Harvard's Cryptography Lecture notes](https://intensecrypto.org/) - An introductory but fast-paced undergraduate/beginning graduate course on cryptography, Used for Harvard CS 127.
+- [Journey into cryptography](https://www.khanacademy.org/computing/computer-science/cryptography) - The course of cryptography by Khan Academy.
+- [Practical Aspects of Modern Cryptography](http://courses.cs.washington.edu/courses/csep590/06wi/) - Practical Aspects of Modern Cryptography, Winter 2006 University of Washington CSE.
+- [Theory and Practice of Cryptography](https://www.youtube.com/watch?v=ZDnShu5V99s) - Introduction to Modern Cryptography, Using Cryptography in Practice and at Google, Proofs of Security and Security Definitions and A Special Topic in Cryptography.
+
+### Other lists
+
+- [Awesome crypto-papers](https://github.com/pFarb/awesome-crypto-papers) – A curated list of cryptography papers, articles, tutorials and howtos.
+- [Awesome HE](https://github.com/jonaschn/awesome-he) – A curated list of homomorphic encryption libraries, software and resources.
+- [TLS Cipher Suites](https://stellastra.com/cipher-suite) - A list of TLS cipher suites and their security ratings. 
+
+## Tools
+
+### Standalone
+
+- [Bcrypt](http://bcrypt.sourceforge.net/) - Cross-platform file encryption utility.
+- [blackbox](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
+- [certbot](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+- [Coherence](https://github.com/liesware/coherence/) - Cryptographic server for modern web apps.
+- [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+- [Databunker](https://databunker.org/) - API based personal data or PII storage service built to comply with GDPR and CCPA.
+- [gpg](https://www.gnupg.org/) - Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
+- [ironssh](https://github.com/IronCoreLabs/ironssh) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
+- [Nipe](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
+- [sops](https://github.com/mozilla/sops) - sops is an editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault and PGP.
+- [ves](https://ves.host/docs/ves-util) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+
+### Plugins
+
+#### Git
+
+- [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+- [git-secret](https://sobolevn.github.io/git-secret/) - Bash-tool to store your private data inside a git repository.
+
+### Playgrounds
+
+- [Cryptography Playground](https://vishwas1.github.io/crypto/index.html#/crypto) - A simple web tool to play and learn basic concepts of cryptography like, hashing, symmetric, asymmetric, zkp etc.
+
+## Frameworks and Libs
+
+### C
+
+- [crypto-algorithms](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
+- [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
+- [libkcapi](https://github.com/smuellerDD/libkcapi) - Linux Kernel Crypto API User Space Interface Library.
+- [libsodium](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
+- [libtomcrypt](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
+- [libVES.c](https://github.com/vesvault/libVES.c) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+- [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c) - Small, self-contained and fast open source crypto library. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3 and Pairing-Based Cryptography.
+- [monocypher](https://monocypher.org) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
+- [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
+- [nettle](https://github.com/gnutls/nettle) - is a cryptographic library that is designed to fit easily in more or less any context: In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space.
+- [OpenSSL](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
+- [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
+- [RHash](https://github.com/rhash/RHash) - Great utility for computing hash sums.
+- [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
+- [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
+- [wolfSSL](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
+- [XKCP](https://github.com/XKCP/XKCP) — is a repository that gathers different free and open-source implementations of the cryptographic schemes defined by the Keccak team.
+- [xxHash](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+
+### C++
+
+- [=nil; Crypto3](https://github.com/NilFoundation/crypto3) - Modern Cryptography Suite in C++17 (complete applied cryptography suite starting with block ciphers and ending with threshold cryptography, zk proof systems, etc).
+- [Botan](https://botan.randombit.net/) - Cryptography library written in `C++20`.
+- [cryptopp](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+- [HElib](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
+- [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
+- [s2n](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
+
+### C-sharp
+
+- [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
+- [libsodium-net](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
+- [Microsoft .NET Framework Cryptography Model](https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model) - The .NET Framework implementations of many standard cryptographic algorithms.
+- [PCLCrypto](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
+- [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
+- [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
+
+### Clojure
+
+- [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
+- [clj-crypto](https://github.com/macourtney/clj-crypto/) - Wrapper for Bouncy Castle.
+- [pandect](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
+- [secrets.clj](https://github.com/lk-geimfari/secrets.clj) - A Clojure library designed to generate cryptographically strong random numbers suitable for managing data such as passwords, account authentication, security tokens, and related secrets.
+
+### Common Lisp
+
+- [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) - Collection of common cryptography functions.
+- [ironclad](http://method-combination.net/lisp/ironclad/) - Collection of common crypto shortcuts.
+- [trivial-ssh](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
+
+### Delphi
+
+- [DelphiEncryptionCompendium](https://github.com/winkelsdorf/DelphiEncryptionCompendium/releases) - Cryptographic library for Delphi.
+- [LockBox](https://sourceforge.net/projects/tplockbox/) - LockBox 3 is a Delphi library for cryptography.
+- [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas) - Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed.
+- [TForge](https://bitbucket.org/sergworks/tforge) - TForge is open-source crypto library written in Delphi, compatible with FPC.
+
+### Elixir
+
+- [cipher](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+- [cloak](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+- [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
+- [elixir-rsa](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
+- [elixir_tea](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
+- [ex_crypto](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
+- [exgpg](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+- [pot](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+- [siphash-elixir](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
+
+### Erlang
+
+- [crypto](http://erlang.org/doc/apps/crypto/) - Functions for computation of message digests, and functions for encryption and decryption.
+- [public_key](http://erlang.org/doc/man/public_key.html) - Provides functions to handle public-key infrastructure.
+
+### Go
+
+- [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
+- [dkeyczar](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
+- [gocrypto](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
+- [goThemis](https://github.com/cossacklabs/themis/wiki/Go-Howto) - Go wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+- [kyber](https://github.com/dedis/kyber) - Advanced crypto library for the Go language.
+
+
+### Haskell
+
+- [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) - Collaborative Hackage list.
+- [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) - Official Website of Haskell.
+- [cryptol](https://github.com/GaloisInc/cryptol) - The Language of Cryptography.
+- [Cryptonite](https://hackage.haskell.org/package/cryptonite) - Haskell repository of cryptographic primitives.
+- [HsOpenSSL](https://github.com/phonohawk/HsOpenSSL) - OpenSSL binding for Haskel.
+- [scrypt](https://github.com/informatikr/scrypt) - Haskell bindings to Colin Percival's scrypt implementation.
+
+### Haxe
+
+- [haxe-crypto](http://lib.haxe.org/p/haxe-crypto/) - Haxe Cryptography Library.
+
+### JavaScript
+
+- [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) - JavaScript implementation of popular cryptographic utilities with performance in mind.
+- [bcrypt-Node.js](https://github.com/shaneGirish/bcrypt-Node.js) - Native implementation of bcrypt for Node.js.
+- [cifre](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
+- [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
+- [cryptico](https://github.com/wwwtyro/cryptico) - Easy-to-use encryption system utilizing RSA and AES for JavaScript.
+- [crypto-js](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+- [cryptojs](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for Node.js.
+- [forge](https://github.com/digitalbazaar/forge) - Native implementation of TLS in JavaScript and tools to write crypto-based and network-heavy webapps.
+- [IronNode](https://docs.ironcorelabs.com/ironnode-sdk/overview) - Transform encryption library, a variant of proxy re-encryption, for encrypting to users or groups, and easily adding strong data controls to Node.js apps.
+- [IronWeb](https://docs.ironcorelabs.com/ironweb-sdk/overview) - Transform encryption library, a variant of proxy re-encryption, for easily managing end-to-end encryption securely in the browser.
+- [javascript-crypto-library](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
+- [js-nacl](https://github.com/tonyg/js-nacl) - Pure-JavaScript High-level API to Emscripten-compiled libsodium routines.
+- [jsencrypt](https://github.com/travist/jsencrypt) - JavaScript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+- [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for Node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+- [jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
+- [jsThemis](https://github.com/cossacklabs/themis/wiki/Nodejs-Howto) - JavaScript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+- [libsodium.js](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
+- [libVES.js](https://github.com/vesvault/libVES) - End-to-end encrypted sharing via cloud repository, secure recovery through a viral network of friends in case of key loss.
+- [micro-rsa-dsa-dh](https://github.com/paulmillr/micro-rsa-dsa-dh) - Minimal implementation of older cryptography algorithms: RSA, DSA, DH, ElGamal.
+- [milagro-crypto-js](https://github.com/apache/incubator-milagro-crypto-js) - MCJS is a standards compliant JavaScript cryptographic library with no external dependencies except for the random seed source. Compatible for Node.js and browser. It supports RSA, ECDH, ECIES, ECDSA, AES-GCM, SHA2, SHA3, Pairing-Based Cryptography and New Hope.
+- noble - high-security, easily auditable set of contained cryptographic libraries and tools. Zero dependencies each.
+  - [noble-ciphers](https://github.com/paulmillr/noble-ciphers) — cryptographic ciphers, including AES-SIV, Salsa20, ChaCha, Poly1305 and FF1
+  - [noble-curves](https://github.com/paulmillr/noble-curves) — elliptic curve cryptography, including Weierstrass, Edwards, Montgomery curves, pairings, hash-to-curve, poseidon hash, schnorr, secp256k1, ed25519, ed448, p521, bn254, bls12-381 and others. Also 4kb [noble-secp256k1](https://github.com/paulmillr/noble-secp256k1), [noble-ed25519](https://github.com/paulmillr/noble-ed25519)
+  - [noble-hashes](https://github.com/paulmillr/noble-hashes) — SHA2, SHA3, RIPEMD, BLAKE2/3, HMAC, HKDF, PBKDF2, Scrypt & Argon2id
+  - [noble-post-quantum](https://github.com/paulmillr/noble-post-quantum) — ML-KEM, ML-DSA, SLH-DSA (CRYSTALS-Kyber, CRYSTALS-Dilithium, Sphincs+) and hybrids
+- [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for Node.js.
+- [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
+- [PolyCrypt](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
+- [rusha](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
+- [sjcl](https://github.com/bitwiseshiftleft/sjcl) - Stanford JavaScript Crypto Library.
+- [TweetNaCl.js](https://github.com/dchest/tweetnacl-js) - A port of TweetNaCl / NaCl for JavaScript for modern browsers and Node.js.
+- [URSA](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
+
+
+### Java
+
+- [Apache Shiro](http://shiro.apache.org/) - Performs authentication, authorization, cryptography and session management.
+- [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.
+- [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
+- [GDH](https://github.com/maxamel/GDH) - Generalized Diffie-Hellman key exchange Java library for multiple parties built on top of the Vert.x framework.
+- [Google Tink](https://github.com/tink-crypto/tink-java) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
+- [Java Themis](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+- [jbcrypt](http://www.mindrot.org/projects/jBCrypt/) - jBCrypt is an implementation the OpenBSD Blowfish password hashing
+algorithm.
+- [Keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services.
+- [pac4j](https://github.com/pac4j/pac4j) - Security engine.
+- [Password4j](https://github.com/Password4j/password4j) - A Java user-friendly cryptographic library for hashing and checking passwords with different Key derivation functions (KDFs) and Cryptographic hash functions (CHFs).
+- [Project Kalium](http://abstractj.github.io/kalium/) - Java binding to the Networking and Cryptography (NaCl) library with the awesomeness of libsodium.
+- [scrypt](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
+- [securitybuilder](https://github.com/tersesystems/securitybuilder) - Fluent Builder API for JCA/JSSE objects.
+
+
+
+### Julia
+
+- [Crypto.jl](https://github.com/danielsuo/Crypto.jl) - Library that wraps OpenSSL, but also has pure Julia implementations for reference.
+- [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) - Wrapper around the mbed TLS and cryptography C libary.
+- [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - Julia wrapper around nettle cryptographic hashing/
+encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.
+- [SHA.jl](https://github.com/staticfloat/SHA.jl) - Performant, 100% native-julia SHA1, SHA2-{224,256,384,512} implementation.
+
+### Lua
+
+- [lua-lockbox](https://github.com/somesocks/lua-lockbox) - Collection of cryptographic primitives written in pure Lua.
+- [LuaCrypto](https://github.com/mkottman/luacrypto) - Lua bindings to OpenSSL.
+
+### OCaml
+
+- [Digestif](https://github.com/mirage/digestif) - is a toolbox that implements various cryptographic primitives in C and OCaml.
+- [ocaml-tls](https://github.com/mirleft/ocaml-tls) - TLS in pure OCaml.
+
+### Objective-C
+
+- [CocoaSecurity](https://github.com/kelp404/CocoaSecurity) - AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.
+- [ObjC Themis](https://github.com/cossacklabs/themis/wiki/Objective-C-Howto) - ObjC wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+- [ObjectivePGP](https://github.com/krzyzanowskim/ObjectivePGP) - ObjectivePGP is an implementation of OpenPGP protocol for iOS and macOS. OpenPGP is the most widely used email encryption standard.
+- [RNCryptor](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac.
+
+
+### PHP
+
+- [halite](https://paragonie.com/project/halite) - Simple library for encryption using `libsodium`.
+- [libsodium-laravel](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
+- [PHP Encryption](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
+- [PHP Themis](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+- [TCrypto](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
+
+### Python
+
+- [bcrypt](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
+- [charm](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
+- [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - Quantum resistant asymmetric key generation tool for digital signatures.
+- [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
+- [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implementation of cryptographic algorithms and applications.
+- [django-cryptography](https://github.com/georgemarshall/django-cryptography) - Easily encrypt data in Django.
+- [ecdsa](https://github.com/tlsfuzzer/python-ecdsa) - An easy-to-use implementation of ECC with support for ECDSA and ECDH.
+- [hashids](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
+- [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
+- [Privy](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
+- [pycryptodome](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
+- [PyElliptic](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
+- [pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+- [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+
+### R
+
+- [rscrypt](https://github.com/rstudio/rscrypt) - Package for a collection of scrypt cryptographic functions.
+
+### Ruby
+
+- [bcrypt-ruby](https://github.com/codahale/bcrypt-ruby) - Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
+- [RbNaCl](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+- [Ruby Themis](https://github.com/cossacklabs/themis/wiki/Ruby-Howto) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+
+### Rust
+
+- [AEADs](https://github.com/RustCrypto/AEADs) - Authenticated Encryption with Associated Data Algorithms: high-level encryption ciphers.
+- [BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - is official Rust and C implementations of the BLAKE3 cryptographic hash function.
+- [botan-rs](https://github.com/randombit/botan-rs) - Botan bindings for Rust.
+- [cryptoballot](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
+- [dalek cryptography](https://github.com/dalek-cryptography/) - Fast yet safe mid-level API for ECC, Bulletproofs, and more.
+- [dryoc](https://github.com/brndnmtthws/dryoc) - A pure-Rust, general purpose crypto library that implements libsodium primitives.
+- [elliptic-curves](https://github.com/RustCrypto/elliptic-curves) - Collection of pure Rust elliptic curve implementations: NIST P-224, P-256, P-384, P-521, secp256k1, SM2.
+- [formats](https://github.com/RustCrypto/formats) - Cryptography-related format encoders/decoders: DER, PEM, PKCS, PKIX.
+- [hashes](https://github.com/RustCrypto/hashes) - Collection of cryptographic hash functions written in pure Rust.
+- [mundane](https://github.com/google/mundane) - is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant.
+- [ockam](https://github.com/ockam-network/ockam) - is a Rust library for end-to-end encryption and mutual authentication.
+- [octavo](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
+- [orion](https://github.com/orion-rs/orion) - is a cryptography library written in pure Rust. It aims to provide easy and usable crypto while trying to minimize the use of unsafe code.
+- [password-hashes](https://github.com/RustCrypto/password-hashes) - Collection of password hashing algorithms, otherwise known as password-based key derivation functions, written in pure Rust.
+- [proteus](https://github.com/wireapp/proteus) - Axolotl protocol implementation, without header keys, in Rust.
+- [rage](https://github.com/str4d/rage) - is a simple, modern, and secure file encryption tool, using the age format.
+- [recrypt](https://github.com/IronCoreLabs/recrypt-rs) - A pure-Rust library that implements cryptographic primitives for building a multi-hop Proxy Re-encryption scheme, known as Transform Encryption.
+- [ring](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+- [ronkathon](https://github.com/pluto/ronkathon) - Educational, mathematically transparent, well documentated cryptography in rust.
+- [rust-crypto](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
+- [rust-openssl](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
+- [rustls](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
+- [signatures](https://github.com/RustCrypto/signatures) - Cryptographic signature algorithms: DSA, ECDSA, Ed25519.
+- [snow](https://github.com/mcginty/snow?tab=readme-ov-file) - Pure Rust implementation of Trevor Perrin’s [Noise Protocol](https://noiseprotocol.org/noise.html).
+- [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+- [suruga](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
+- [webpki](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+
+### Scala
+
+- [recrypt](https://github.com/IronCoreLabs/recrypt) - Transform encryption library for Scala.
+- [scrypto](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
+- [tsec](https://github.com/jmcardon/tsec) - A type-safe, functional, general purpose security and cryptography library.
+
+### Scheme
+
+- [chicken-sodium](https://github.com/caolan/chicken-sodium) - Bindings to libsodium crypto library for Chicken Scheme.
+- [crypto-tools](https://wiki.call-cc.org/eggref/5/crypto-tools) - Useful cryptographic primitives for Chicken Scheme.
+- [guile-gnutls](https://gitlab.com/gnutls/guile/) - GnuTLS bindings for GNU Guile.
+- [guile-ssh](https://github.com/artyom-poptsov/guile-ssh) - libssh bindings for GNU Guile.
+- [industria](https://gitlab.com/weinholt/industria) - Motley assortment of cryptographic primitives, OpenSSH, DNS.
+
+### Swift
+
+- [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - Crypto related functions and helpers for Swift implemented in Swift programming language.
+- [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - Wrapper for Apple's [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
+- [OpenSSL](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for macOS and Linux.
+- [SweetHMAC](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
+- [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and macOS.
+- [SwiftSSL](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift.
+- [SwiftThemis](https://github.com/cossacklabs/themis/wiki/Swift-Howto) - Swift wrapper on Themis for iOS and macOS. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
+
+## Resources
+
+### Blogs
+
+- [A Few Thoughts on Cryptographic Engineering](http://blog.cryptographyengineering.com/) - Some random thoughts about crypto.
+- [Bristol Cryptography Blog](http://bristolcrypto.blogspot.co.uk/) - Official blog for the University of Bristol cryptography research group. It's a group blog, primarily targeted towards cryptographers and crypto students.
+- [Charles Engelke's Blog](https://blog.engelke.com/tag/webcrypto/) - WebCrypto Blog Posts.
+- [Root Labs rdist](https://rdist.root.org/) - Nate Lawson and his co-authors write on a variety of topics including hardware implementation, cryptographic timing attacks, DRM, and the Commodore 64.
+- [Salty Hash](https://blog.ironcorelabs.com) - Covers topics on encryption, data control, privacy, and security.
+- [Schneier on security](https://www.schneier.com/) - One of the oldest and most famous security blogs. Bruce covers topics from block cipher cryptanalysis to airport security.
+
+### Mailing lists
+
+- [metzdowd.com](http://www.metzdowd.com/mailman/listinfo/cryptography) - "Cryptography" is a low-noise moderated mailing list devoted to cryptographic technology and its political impact.
+- [Modern Crypto](https://moderncrypto.org/) - Forums for discussing modern cryptographic practice.
+- [randombit.net](https://lists.randombit.net/mailman/listinfo/cryptography) - List for general discussion of cryptography, particularly the technical aspects.
+
+### Web-tools
+
+- [Boxentriq](https://www.boxentriq.com/code-breaking) - Easy to use tools for analysis and code-breaking of the most frequent ciphers, including Vigenère, Beaufort, Keyed Caesar, Transposition Ciphers, etc.
+- [Cryptolab](http://manansingh.github.io/Cryptolab-Offline/cryptolab.html) - is a set of cryptography related tools.
+- [CrypTool](http://www.cryptool-online.org/) - Great variety of ciphers, encryption methods and analysis tools are introduced, often together with illustrated examples.
+- [CyberChef](https://gchq.github.io/CyberChef/) - a web app for encryption, encoding, compression, and data analysis.
+- [factordb.com](http://factordb.com/) - Factordb.com is tool used to store known factorizations of any number.
+- [keybase.io](https://keybase.io/) - Keybase maps your identity to your public keys, and vice versa.
+
+### Web-sites
+
+- [Applied Crypto Hardening](https://bettercrypto.org/) - A lot ready to use best practice examples for securing web servers and more.
+- [Cryptocurrencies Dashboard](https://dashboard.nbshare.io/apps/reddit/top-crypto-subreddits/) - A dashboard of most active cryptocurrencies discussed on Reddit.
+- [Cryptography Stackexchange](http://crypto.stackexchange.com/) - Cryptography Stack Exchange is a question and answer site for software developers, mathematicians and others interested in cryptography.
+- [Cryptohack](https://cryptohack.org/) - A platform with lots of interactive cryptography challenges, similar to Cryptopals.
+- [Cryptopals Crypto Challenges](http://cryptopals.com/) - A series of applied cryptography challenges, starting from very basic challenges, such as hex to base 64 challanges, and gradually increasing the difficulty up to abstract algebra.
+- [Eliptic Curve Calculator](https://paulmillr.com/noble/#demo) - simple form that allows to calculate elliptic curve public keys and signatures. Features include ability to create custom curves and different signature types
+- [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - An Overview of Cryptography.
+- [IACR](https://www.iacr.org/) - The International Association for Cryptologic Research is a non-profit scientific organization whose purpose is to further research in cryptology and related fields.
+- [Learn Cryptography](https://learncryptography.com/) - Dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.
+- [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - This subreddit is intended for links and discussions surrounding the theory and practice of strong cryptography.
+- [TikZ for Cryptographers](https://www.iacr.org/authors/tikz/) - A collection of block diagrams of common cryptographic functions drawn in TikZ to be used in research papers and presentations written in LaTeX.
+- [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - This specification describes a JavaScript API for performing basic cryptographic operations in web applications, such as hashing, signature generation and verification, and encryption and decryption.
+
+## Contributing
+
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) first.
+
+## License
+
+`awesome-cryptography` by [@sobolevn](https://github.com/sobolevn)
+
+To the extent possible under law, the person who associated CC0 with
+`awesome-cryptography` has waived all copyright and related or neighboring
+rights to `awesome-cryptography`.
+
+You should have received a copy of the CC0 legalcode along with this
+work.  If not, see [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).
