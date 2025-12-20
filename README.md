@@ -1,7 +1,7 @@
 # Awesome Cybersecurity Reddit Communities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
-  <img src="https://github.com/d0midigi/awesome-cybersecurity-subreddits/blob/master/reddit-glitch.png?raw=true" alt="Awesome Cybersecurity Reddit Communities">
+  <img src="https://github.com/d0midigi/awesome-cybersecurity-subreddits/blob/main/reddit-glitch.png?raw=true" alt="Awesome Cybersecurity Reddit Communities">
 </p>
 
 A curated list of cybersecurity-related Reddit communities. subreddits, resources, and links.
