@@ -4,8 +4,6 @@
   <img src="https://github.com/d0midigi/awesome-cybersecurity-subreddits/blob/master/reddit-glitch.png?raw=true" alt="Awesome Cybersecurity Reddit Communities">
 </p>
 
-[![Follow us on twitter](https://img.shields.io/twitter/follow/awe_crypto_bot.svg?style=social&maxAge=0)](https://twitter.com/awe_crypto_bot)
-
 A curated list of cybersecurity-related Reddit communities. subreddits, resources, and links.
 
 ## Contents
