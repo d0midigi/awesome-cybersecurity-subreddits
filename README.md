@@ -1,5 +1,5 @@
 <section>
-<h1>Awesome Cybersecurity Reddit Communities</h1>
+<h1>Awesome Cybersecurity Subreddits</h1>
 <p><a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /> </a></p>
 <p><img src="https://github.com/d0midigi/awesome-cybersecurity-subreddits/blob/main/reddit-glitch.png?raw=true" alt="Awesome Cybersecurity Reddit Communities" /></p>
 <p>A curated collection of cybersecurity-oriented subreddits, tools, and essential links.</p>
