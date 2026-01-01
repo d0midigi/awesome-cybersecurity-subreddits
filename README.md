@@ -1,6 +1,3 @@
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome]
-
 <section>
 <h1>Awesome Cybersecurity Reddit Communities</h1>
 <p><a href="https://github.com/sindresorhus/awesome" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /> </a></p>
@@ -21,7 +18,6 @@
 <p><strong><span style="color: #fe0942;">3.</span></strong> Submit a Pull Request for review!</p>
 <p><em>Modifications and new links are always appreciated.&nbsp;</em></p>
 <h1>🫶</h1>
-<hr /><hr />
 <h2>&nbsp;</h2>
 <section>
 <div style="font-family: sans-serif; max-width: 500px; border: 1px solid #d1d5da; border-radius: 6px;"><details style="padding: 10px; border-bottom: 1px solid #d1d5da;" open=""> <summary style="font-weight: bold; cursor: pointer; outline: none;"> Contents </summary>
