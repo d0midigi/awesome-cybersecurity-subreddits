@@ -6,7 +6,7 @@
 <table>
 <tbody>
 <tr>
-<td style="border-color: #fe0942; border-width: 3px; background-color: #000000;"><span style="color: #ffffff;"><em><strong><span style="background-color: #000000;">📌 Note:</span>&nbsp;</strong>These resources are listed for convenience and follow no particular order of importance.</em></span></td>
+<td style="border-color: #fe0942; border-width: 3px; background-color: #000000;"><span style="color: #ffffff;"><em><strong><span style="background-color: #000000;">📌 Note:</span>&nbsp;</strong>The resources provided are meant for your convenience and are not ranked in order of improvement. Also, while there are numerous subreddits available, the selection focuses on the most active and participatory communities on Reddit. All listed communities have been verified as active and functional thereby guiding you to efficient discussions. </em></span></td>
 </tr>
 </tbody>
 </table>
